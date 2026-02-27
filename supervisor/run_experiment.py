@@ -117,7 +117,8 @@ def score_response(judge_llm, task: dict, response_text: str, scoring_rubric: di
 
     judge_system = (
         "You are a strict, objective evaluator. Score AI responses precisely according to the rubric. "
-        "Guidelines : a score of 5 means exceptional; a score of 3 means average; a score of 1 means poor. "
+        "Use INTEGER scores from 1 to 10 (10 = exceptional, 7-8 = strong, 5-6 = average, "
+        "3-4 = poor, 1-2 = unacceptable). Use the full scale when warranted. "
         "Respond with ONLY a JSON object. No explanation, no preamble."
     )
 
@@ -148,7 +149,7 @@ Return ONLY a JSON object: {{"metric_name": score, ...}}"""
             for k, v in scores.items():
                 if k in task["measures"]:
                     int_v = int(v)
-                    if 1 <= int_v <= 5:
+                    if 1 <= int_v <= 10:
                         valid_scores[k] = int_v
                     else:
                         # #FALLBACK : score out of range, recording as null
