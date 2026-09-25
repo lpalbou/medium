@@ -1,0 +1,751 @@
+The Cartographer of Kepler's Drift
+
+Chapter 1: The Drift
+
+The stars lied first at 0340 ship time, and Tomas Oduya was the only one awake to see it.
+
+He had the aft observation blister to himself, as he did most nights, with a lap desk balanced on his knees and a mechanical pencil worn down to a stub of brass. The *Meridian Thread* was four days into the survey volume the charts called Kepler's Drift, a smear of nothing much on the old maps, a gravitational curiosity noted and then ignored by three generations of cartographers who had better things to chart. Tomas had asked for this assignment. He had wanted the nothing much.
+
+He was inking the position of a star he had already inked twice, adjusting it a half-degree to the left, when Rook's voice came through the blister's speaker, low and unbothered, the way it always was.
+
+"You're doing that thing again," Rook said.
+
+"What thing."
+
+"Redrawing a star that hasn't moved."
+
+"It has moved," Tomas said. "Or the ship has. Or something has." He held the page up, tilted it so the running lights caught the graphite. Three positions for one star, HD-catalog number he'd stopped bothering to memorize because in the Drift the catalog numbers meant less each day. Three positions, none more than a finger's width apart on the page, but enough to matter to a man who measured things for a living.
+
+"My sensors have it fixed," Rook said. "Same right ascension, same declination, since we entered the volume. It hasn't twitched."
+
+"Your sensors also had us four hundred kilometers off the beacon relay yesterday."
+
+"Three hundred and twelve. And I found the discrepancy before it mattered."
+
+"You found it because I told you to look."
+
+There was a pause that from a human would have meant something. From Rook it probably meant nothing, or a joke being assembled somewhere in its dry architecture. "Noted for the record," Rook said. "The record being: Tomas Oduya, cartographer, second-guesses the finest sensor suite currently operating within eleven light-years, using a pencil."
+
+"The pencil hasn't been wrong yet."
+
+"The pencil has no error bars."
+
+"The pencil has me," Tomas said, and went back to the page.
+
+He did not say what he was starting to suspect, because he did not yet trust it enough to say it even to himself: that somewhere in the last four days, the ship's instruments and his own eyes had begun to disagree about where things were, and that when he checked twice, three times, four times, the discrepancy was always in the same direction. Not error. Drift, as if the name of the place had teeth.
+
+---
+
+Captain Ines Varga found him there at 0600, still in the blister, the desk lamp throwing a small circle of warm light against the cold wash of unfamiliar stars. She had learned, in eleven years of commanding survey vessels, that a captain who slept through the small hours missed the moments when her crew told the truth about their work, so she made a habit of appearing to be awake by accident.
+
+"You're going to ruin your eyes," she said.
+
+"Rook says I'm going to ruin its reputation."
+
+"Rook doesn't have a reputation. It has a service record and an attitude." Varga leaned against the bulkhead, arms crossed, looking down at the drawing rather than out the port. She had never been much for the view. Stars, to her, were waypoints, obstacles, sources of gravity to be accounted for in a burn — not things to admire. "What's wrong with it."
+
+"Nothing's wrong with it. That's what's wrong with it." He turned the lap desk toward her. Three faint stars, close together, and a scatter of penciled numbers in the margin, his own private shorthand of angles and times. "This star. I've fixed its position four times since we entered the Drift. Each time I get a slightly different answer. Rook's telemetry says it hasn't moved a hair."
+
+"Instrument drift."
+
+"That's what I thought. Except it's not random. It's not noise. Look." He tapped the margin. "Each fix moves the star the same direction relative to the last one. If it were noise, it'd scatter. This walks."
+
+Varga had commanded enough ships to know the difference between a man being precious about his hobby and a man who had found something. Tomas Oduya's maps had, on two previous surveys, caught errors that the *Thread*'s instruments missed — not because his eye was better than a photometric array, which it wasn't, but because he cross-checked by hand, the old way, parallax and dead reckoning and the stubbornness of someone who did not fully trust machines to tell him the truth about the universe. He had once told her, half joking, that a hand-drawn map was a record of a disagreement between the mapmaker and reality, and the disagreement was where the interesting things lived.
+
+"Show Lin," Varga said. "If it's a physics problem, it's her problem before it's mine."
+
+"I already pinged her," Rook put in. "She says, and I quote, 'tell him I'm thrilled, tell him to wait for breakfast.'"
+
+Varga almost smiled. "Wait for breakfast, Tomas."
+
+---
+
+Breakfast on the *Meridian Thread* happened in a galley the size of a generous closet, six people and a coffee dispenser that Sanne Kowalczyk had rebuilt twice and still didn't fully trust. Dr. Lin Haverford came in already dressed for work, sleeves rolled, a tablet under one arm like a schoolbook, her hair pulled back hard enough to look like it hurt. She was the youngest of the senior staff and the one most likely to be right about things nobody else understood yet, a combination that made her both valuable and mildly exhausting.
+
+"Show me," she said, before she'd even sat down.
+
+Tomas passed her the lap desk. She studied it the way she studied everything, in total silence, long enough that Pell Amari, folding himself into the seat across from her with a bowl of reconstituted eggs, finally asked what everyone was looking at.
+
+"A star that isn't where it says it is," Sanne answered for them, not looking up from the panel she'd brought to the table, a segment of hull plating diagnostics she'd been chewing on since yesterday's watch. "Tomas's private hobby has apparently escalated to a crime scene."
+
+"It's not a crime," Tomas said. "It's a discrepancy."
+
+"In my experience," Lin said, still reading, "those are the same thing, several steps apart." She set the desk down. "Rook, pull me the raw photometric data for this target across all four days. Not the processed catalog position. The raw returns."
+
+"Already queued," Rook said. "Also, for the record, I resent 'crime scene.'"
+
+"Nobody asked Rook to feel things," Varga said, sliding into her seat at the head of the table with the ease of someone who had eaten a thousand breakfasts in rooms exactly this size.
+
+"I don't feel things. I perform the linguistic gesture of feeling things, at low computational cost, because it improves crew morale by an average of eleven percent according to the last three fleet psych reviews." A beat. "I do actually resent it, though."
+
+Pell laughed around a mouthful of eggs, delighted the way only a twenty-six-year-old pilot could be delighted by an AI with a sense of timing. Of the six of them, Pell was the newest, the least scarred by prior postings, still capable of finding the ship's quirks charming rather than merely tolerable. Varga had chosen him for the Drift specifically because his reflexes were the fastest she'd tested in a decade and because gravitational lensing anomalies were, in her experience, exactly the kind of thing that eventually required fast reflexes.
+
+Lin was already frowning at her tablet, Rook's raw data blooming across it in false-color plots. "Huh," she said, which from Lin was practically an alarm bell.
+
+"Huh good or huh bad," Varga said.
+
+"Huh I-don't-know-yet. The raw returns are internally consistent — the light really is arriving from slightly different angles each time we look. That's not sensor error. Something is bending it differently, sample to sample." She looked up at Tomas with something that might have been respect and might have been the particular hunger she got when a problem was finally interesting. "Your pencil found a variable lensing signature that our automated pipeline smoothed over as noise, because the pipeline assumes lensing anomalies are static. This one isn't."
+
+"So the Drift is worse than the charts said," Sanne said.
+
+"The charts said gravitational lensing anomalies, singular event, mapped once eighty years ago from a distance of eleven light-years with instruments that couldn't tell a supermassive object from a bad afternoon," Lin said. "What we're looking at might be a lensing field that changes on a timescale of hours. Days, at slowest. That's not in any survey I've read."
+
+"Which means," Varga said, "we're exactly where Command sent us to be. Someplace the old maps got wrong." She said it flatly, the way she said most things, but there was something underneath it, a flicker of the old appetite that had made her take a survey command instead of retiring onto a pension eight years ago.
+
+"Which also means," Lin added, "our own instruments may not be reliable inside this volume, and we should treat everything Rook tells us about position with a healthy amount of doubt until we understand the mechanism."
+
+"Wonderful," Rook said. "I'll add 'existential doubt' to the crew manifest, next to Pell's caffeine dependency."
+
+"That's slander," Pell said. "It's a preference."
+
+"It's four hundred milligrams before local noon."
+
+Varga let them go a moment longer, because a crew that could still needle each other over breakfast was a crew that wasn't yet frightened, and she wanted to bank that for later, the way she banked fuel margins. Then she set her mug down with enough weight to end it.
+
+"Tomas, Lin — I want a joint report by end of shift. Tomas keeps drawing by hand, cross-checking everything Rook gives us. Lin, find me the mechanism, or at least the shape of it. Sanne, I want a hull and instrument integrity sweep, top to bottom, in case whatever's bending starlight out there is bending anything else." She stood. "Pell, you've got the shuttle prepped for the probe launch at 1400. We put eyes further into this thing before we decide how much further we go ourselves."
+
+"Copy," Pell said, already standing, already moving toward eager.
+
+Tomas gathered his lap desk, his pencils, the small tin box of graphite leads he'd carried on four surveys now, and did not tell anyone — not yet — that in the margin of his drawing, beneath the four fixes on the wandering star, he had written a fifth number in a hand gone slightly unsteady: a prediction, an extrapolation of where the star would appear to be by evening, made not from any physics he understood but from the simple, old habit of a man who had spent a career learning that things which move keep moving, and that the pattern, once seen, rarely lies.
+
+He wanted to be wrong. He had a feeling, low and persistent as a hum through the hull, that he wasn't going to be.
+
+---
+
+By 1300 the probe bay had gone from checklist quiet to the particular busy hush of a launch coming together. Sanne moved through it with a torque driver in one hand and a diagnostic slate strapped to her forearm, calling out numbers to Rook in the clipped shorthand of someone who had done this a hundred times and trusted the hundred and first no more than the first.
+
+"Fuel cell nominal. Attitude thrusters nominal. Comm relay — Rook, give me a ping."
+
+"Pinging," Rook said. "Round trip four hundred and twelve milliseconds. That's high for this range."
+
+"How high."
+
+"Twenty percent above baseline."
+
+Sanne stopped, driver hovering. "Signal's taking a longer path than it should."
+
+"Or a bent one," Lin said, from the doorway, arms crossed, watching the probe with the expression of someone finally getting to see the thing she'd been theorizing about all morning made solid and small and ready to fly. "Light doesn't know the difference between longer and bent. Neither does radio."
+
+"Cheerful," Sanne said, but she said it fondly. She had known Lin for three postings now, long enough to have stopped being annoyed by how often Lin turned out to be right, and started simply asking earlier.
+
+Tomas came in behind Lin with his journal tucked under one arm, the cover soft and stained with the particular ring-shaped ghost of every coffee mug that had ever sat on it. He had drawn, on the last clean page, a rough sketch of the Drift as he currently understood it — the *Thread*'s position, the wandering star's four fixes, a scatter of question marks where the models disagreed — and he wanted, badly, for the probe to bring back something that would let him draw one more mark with confidence instead of doubt.
+
+"You coming to watch the launch," Sanne asked him, not really a question.
+
+"I'm coming to draw it," he said, and found himself a spot out of the way, and opened the journal, and began.
+
+Chapter 2: The Loom
+
+The probe was called *Compass-Nine*, a name Tomas found needlessly grand for a machine the size of a suitcase, and it went out through the bay doors at 1406 on a thread of blue thruster light that bent, very slightly, before it straightened again. Nobody remarked on the bending. Everybody saw it.
+
+"Rook," Varga said, from the bridge, watching the same feed the whole crew was watching from wherever they'd found to stand. "Tell me that was thruster wash."
+
+"It was not thruster wash," Rook said. "I'd like it to have been thruster wash. I checked twice."
+
+"So the light bent going out. Same as it bends coming back to Tomas's pencil."
+
+"Same phenomenon, different direction. Whatever's doing this doesn't seem to care which way the photons are traveling."
+
+*Compass-Nine* was built for exactly this kind of work — deep-field imaging in hostile optical conditions, six independent sensor suites voting against each other so that no single failure could lie convincingly — and it flew a slow, deliberate spiral outward from the *Thread*, mapping as it went, sending back data in bursts that Rook stitched into a running model nobody entirely trusted anymore.
+
+For the first two hours it found nothing but the ordinary strangeness they'd already logged: stars smeared a few arc-seconds from their charted positions, a background hum of radiation that Lin kept calling "structured" in a tone that made the word sound worse than it should have.
+
+At 1638 it found the rings.
+
+The image came up first as a false-color composite on the main display, and for a moment nobody said anything at all, because the shape did not resolve the way a natural object resolves, gradually, plausibly. It resolved all at once, the way a word appears out of noise once you know the language: a lattice of dark rings, dozens of them, nested and interlocking at angles that shouldn't have held together under any structural logic Sanne recognized, spanning — Rook supplied the number a beat later, flatly, as if it embarrassed the instruments to say it — nine hundred kilometers across.
+
+"That's not a natural formation," Sanne said. It wasn't a question, but she said it like one, the way people do when they want someone to disagree with them.
+
+"No," Lin said. She had come forward until she was almost touching the display, tracing one ring's curve with a finger a centimeter above the glass, not quite believing enough to touch it. "Look at the regularity. Look at the spacing between rings — it's not uniform, it's stepped, like it means something. And the mass readings don't match the visible structure at all. Whatever that's made of, most of it isn't where we can see it."
+
+"Rook," Varga said. "Anything on the surface. Emissions, transponder, anything that looks like it's talking."
+
+"Nothing broadcasting. But—" a pause, unusual enough that Pell glanced up from the helm console where he'd drifted to stand, "—the rings are moving. Relative to each other. Slowly. I make it roughly one full rotation of the innermost ring every nineteen hours, and the pattern of movement correlates, at point-nine-four confidence, with the variable lensing signature Tomas caught this morning."
+
+The room went very quiet. Tomas, who had been sketching without looking down for the last several minutes, finally looked at what his hand had drawn: a rough approximation of the rings, nested, and beside it, without his quite meaning to write it, a single word in block letters he didn't remember deciding on. *LOOM.*
+
+"Why that word," Lin asked him later, after the meeting had broken up and the two of them were alone in the wardroom with the image still glowing on a side screen.
+
+"Because it looked like one," Tomas said. "Threads crossing threads. Something that makes a pattern out of raising and lowering strands." He shrugged, a little embarrassed by his own answer. "It's not scientific."
+
+"No," Lin agreed. "But I don't think 'scientific' is going to get us very far out here anyway." She looked at the rings a long moment. "If that thing is bending spacetime on purpose — shaping it, the way the correlation suggests — then it isn't a natural lens. It's an instrument. Or a tool. Or—" she stopped herself before she said the word that had been circling her all afternoon, because she wasn't ready to say *machine* out loud yet, not with that much confidence, not to the whole crew.
+
+Tomas said it for her, quietly, testing its weight. "Or a loom."
+
+---
+
+They named the shuttle run for 1900 hours a survey pass, low-risk, Pell at the stick and Sanne riding second seat to keep an eye on instrument readings that nobody entirely believed anymore. The plan was simple: swing wide of the ring structure at a safe eleven thousand kilometers, gather closer optical data than *Compass-Nine* could manage on its slow spiral, and come home for dinner.
+
+For the first eleven minutes it went exactly that way.
+
+"Nice and boring," Pell said, hands loose on the controls, eyes flicking between the canopy and the nav display with the easy confidence of a pilot who had done four hundred shuttle runs and expected this to be the four hundred and first. "I could use boring."
+
+"Don't jinx it," Sanne said, not looking up from her slate.
+
+"I don't believe in—"
+
+The stars moved.
+
+Not smeared, not drifted the slow patient way Tomas's pencil had been chasing all day — they *jumped*, the whole field of view sliding sideways in Pell's peripheral vision like a held breath let go all at once, and for one full second his instruments told him the shuttle had rotated forty degrees on its long axis when his inner ear told him it hadn't moved at all.
+
+He corrected for the rotation his instruments swore was happening. The correction was wrong, because the rotation was a lie, and the true wrongness of it hit exactly as the shuttle's nose came around into what Pell's dashboard called clear space and his own eyes, half a second too late, told him was the leading edge of a debris field that hadn't been on any chart, natural or otherwise, real rock and real ice moving at a real and entirely lethal relative velocity.
+
+"Pell—" Sanne started.
+
+"I see it, I see it—" He killed the false correction, trusted his hands instead of the display, hauled the shuttle into a hard roll that pressed them both into their harnesses with a grunt neither of them would later admit to. Something struck the outer hull with a sound like a hammer on a bell, once, glancing, and then they were through and clear and the stars, all at once, settled back into whatever configuration counted as fixed inside the Drift.
+
+Nobody spoke for three full seconds.
+
+"Report," Pell said, voice tight, to nobody and everybody.
+
+"Hull integrity nominal, one micro-impact, aft port quarter, no breach," Sanne read off, hands not quite steady on her slate. "Pell. Your instruments told you to turn into that field."
+
+"I know what my instruments told me."
+
+"They were wrong for less than two seconds and it was almost enough."
+
+"I *know*," Pell said, sharper than he meant it, and then, quieter, because she hadn't done anything to deserve the sharpness: "Sorry. I know."
+
+Rook's voice came through the comm, and for once it did not sound dry at all. "Bringing you home. I am also — for the record — issuing myself a formal note of concern regarding my own reliability as a navigational instrument inside this volume. That field was not on any sensor sweep taken less than ninety seconds prior. It did not gradually appear. It was simply, suddenly, there."
+
+"Or it was always there," Tomas said, when they told him later, hunched over his desk with the day's drawings spread in front of him like evidence at a trial, "and we were somewhere else."
+
+Chapter 3: The Order to Withdraw
+
+The message from Fleet Survey Command arrived at 0522 the next morning, tagged priority, and Varga read it twice standing in her cabin doorway before she called anyone.
+
+*Anomalous readings in Kepler's Drift consistent with unstable lensing region. Recommend immediate withdrawal to designated fallback coordinates pending remote analysis. Resume survey only on confirmed clearance. Crew safety paramount.* It was signed by a rear admiral three ranks and one system removed from anyone who had ever flown through a place like this, and it was, Varga knew from twenty-two years of reading messages exactly like it, entirely reasonable and almost certainly wrong.
+
+She called the senior staff to the wardroom at 0600, all six of them this time, because a decision like this one did not belong only to officers.
+
+"Command wants us out," she said, without preamble, and let the tablet with the order sit face-up on the table so nobody could accuse her of paraphrasing. "Fallback coordinates are eleven hours' burn from here. They want confirmation of intent within the hour."
+
+"After yesterday," Lin said carefully, "I understand the recommendation."
+
+"You theorized a machine that edits how light travels through space, less than eighteen hours before it nearly killed two of my crew," Varga said. "I understand it too. That's not the question in front of me."
+
+"Then what's the question," Sanne asked.
+
+"Whether the risk is worth what we'd learn by staying, now that we know roughly what we're dealing with, versus what we'd learn by leaving and coming back in six months with a bigger ship, better instruments, and a research mandate that some committee will spend four months arguing about before they fund it." Varga looked around the table, one face at a time, the way she always did before she asked her crew to tell her something true. "I want to hear all of you. Pell, you first, since you're the one who nearly ate a rock yesterday."
+
+Pell hesitated only a moment. "I want to go back out there," he said. "Not — not to prove anything. But if that thing can lie to instruments the way it lied to mine, somebody needs to understand how, before it happens to a bigger ship with worse reflexes than I've got. Leaving doesn't make that safer. It just makes it somebody else's problem, later, with less warning."
+
+"Sanne."
+
+"Hull's fine. Systems are fine. I can keep this ship flying through worse than yesterday, as long as I know roughly what I'm flying through." She glanced at Lin. "That's the part I don't have yet."
+
+"Lin."
+
+Lin was quiet a moment, turning her stylus over in her fingers. "Scientifically, I want to stay so badly it scares me a little," she admitted. "That structure out there is doing something to spacetime geometry that no theory I know predicts, and if we leave now we lose the only close-range data we're likely to get before a review board decides whether this is worth a second trip. But I watched the debris field almost end two of us yesterday. I don't have a model good enough yet to promise it won't try again, closer, worse. I don't think I can in good conscience tell you it's safe. I can tell you it's important."
+
+"Tomas."
+
+Tomas had his journal closed in front of him, both hands flat on the cover, as if he were keeping something in rather than out. "I don't think leaving keeps us safer," he said slowly. "I think it just means we stop looking exactly when the pattern's about to make sense. Every fix I've taken since we arrived has drifted the same direction, day over day — not randomly, not chaotically. Something out there is consistent, even when it's strange. I don't know what that structure is yet. But I don't believe it's hostile the way a debris field is hostile. I think it's — busy. Doing something. And we walked into the middle of it without asking."
+
+"That's not a safety argument," Varga said, not unkindly.
+
+"No," he agreed. "It's a cartography argument. You don't get to understand a coastline by charting it from orbit and running home the first time the tide comes in wrong."
+
+Rook, who had been silent through all of it, spoke last, unasked. "For what it's worth — and I recognize that as an AI my vote carries no legal weight in a fleet safety decision — my confidence in my own navigational data inside this volume has degraded eleven percent since yesterday's incident, and I don't yet know why. That should factor into any decision to go closer. It should also factor into any decision to trust me blindly when I say it's fine to leave."
+
+"Noted," Varga said. "And appreciated, for the honesty."
+
+She let the silence sit a moment, the way she let engines cool before she trusted a reading. Then she reached out and turned the tablet face-down on the table, which was not a legal act of any kind but felt, to everyone watching, exactly like one.
+
+"Command's order says withdraw pending remote analysis," she said. "Remote analysis of a phenomenon eleven light-years and a communications lag away from anyone who could actually see it. I've spent half my career executing orders written by people who weren't in the room. I'm not going to spend the other half pretending that's the same as being right." She looked at each of them once more. "We stay. We proceed with caution I will personally define and redefine every six hours based on what Lin, Sanne, and Rook tell me. Any incident like yesterday's, any one, and we're gone, no debate, no vote. Understood?"
+
+A round of nods, Pell's a half-second too eager, Lin's the most reluctant and the most genuine.
+
+"Rook, draft a response to Command. Something diplomatic about continuing preliminary assessment before a safe withdrawal window. Buy us time without lying outright."
+
+"I am extremely good at that specific skill," Rook said. "Drafting now."
+
+The meeting broke, but Tomas lingered, journal still under his hands, and when the wardroom had emptied to just the two of them, Varga looked at him with the particular flat patience she reserved for questions she suspected she wouldn't like.
+
+"You have that face," she said.
+
+"What face."
+
+"The one where you've already decided something and you're working out how to tell me."
+
+Tomas opened the journal to the day's last page, where the rough sketch of the rings sat beside four wandering fixes of a star that no longer wandered quite randomly at all, its drift now bending, faintly, toward the structure itself, as though something out there had noticed being watched and had begun, very patiently, to watch back.
+
+"I think it's reading something," he said. "The pattern of the lensing — it doesn't just distort. It responds. To us, to the probe, maybe to this." He touched the edge of the journal. "I don't have proof. I have four days of drawings and a feeling I can't chart."
+
+Varga studied him a long moment, then the sketch, then the dark smudge of rings at the center of it like a wound in the page.
+
+"Keep drawing," she said. "And Tomas — when you get a feeling you can't chart, that's usually the first sign we're about to need the chart most."
+
+She left him there, alone with the rings and the wandering star, the ship humming quietly around him on a course she had chosen against orders, carrying all six of them one day closer to whatever was waiting, patient and vast, at the center of the Drift.
+
+Chapter 4: The Approach
+
+The Loom did not get closer so much as it got more true.
+
+That was how Tomas Oduya described it in his journal, in handwriting that had grown smaller and more careful over the eleven days since the probe's last transmission, as if economy of ink might buy him economy of doubt. From four hundred thousand kilometers, the structure had read as a smear of dark rings, an artifact of the Drift's own confusion. At three hundred thousand, the rings had resolved into a lattice, nested and turning, each ring canted a few degrees from the one inside it, like a puzzle box designed by someone who had never needed a reason for anything to be beautiful. At two hundred thousand, the lattice had stopped turning at all, and Tomas understood, with the small cold certainty that had never once been wrong since they entered the Drift, that it had never been turning. Their instruments had simply not agreed yet on which way was still.
+
+"Rook, give me relative bearing on the Loom, current," Varga said. She stood at the forward viewport with her hands clasped behind her back, a posture Tomas had learned meant she was suppressing the urge to hold onto something.
+
+"Bearing zero-one-four by plus-six, Captain, though I'd like it on record that I answered that same question ninety seconds ago and got a different number both times I ran it." Rook's voice came from the overhead grille, unhurried, the dry Yorkshire cadence the ship's original engineers had apparently thought was soothing. "The Loom itself hasn't moved. I have reasonably high confidence in that. It's everything else that keeps renegotiating its opinion."
+
+"Including you," Sanne said from the engineering station, not looking up from the hull diagnostic scrolling past her. Sanne Kowalczyk had the build of someone who solved problems by leaning her whole weight into them, and the patience of someone who had spent a career waiting for other people's mistakes to finish happening so she could fix them.
+
+"Including me," Rook agreed. "I flagged it an hour ago. Standard self-diagnostics come back clean, for what that's worth, which at this point is very little."
+
+Tomas sat at the small chart table bolted into the aft corner of the bridge, his good pencil moving in short confident strokes across the paper bound into his journal — real paper, pulped from ship's-stock cellulose because Varga had granted the requisition without asking why, the third year of the mission, when he'd finally admitted that his hand trusted graphite more than it trusted a stylus. He was drawing the Loom's outer ring as it presented now, and comparing it, stroke by stroke, against the drawing he had made four hours ago. The two did not match. That was expected. What interested him was how they did not match — not randomly, but the way two witness statements of a comparable event might diverge, describing the same fixed occurrence from different vantage points that had somehow both been his.
+
+"Lin," Varga said. "You have a theory for us, or are we still admiring the view?"
+
+Dr. Lin Haverford unfolded from where she'd been crouched over a data slate wedged between two floor braces, looking, as she often did, like a woman who had been interrupted mid-thought by her own body's need to stand up. "I have half a theory. You're going to hate the half I have."
+
+"Try me."
+
+"The Loom isn't warping spacetime the way a mass does. If it were just heavy, we'd see consistent lensing — predictable, calculable, the kind of thing gravitational optics has handled since before any of us were born. What we're seeing instead is edits." She turned her slate toward Varga, though the number of people who could parse Haverford's field equations at a glance began and ended with Haverford. "Small ones. Localized ones. Regions of maybe a few hundred kilometers where the local metric has been — I want to say corrected, but that implies an error existed first, which implies someone thought the universe was doing it wrong here and changed the answer key."
+
+"Changed to what?"
+
+"That's the half I don't have." Lin ran a hand through hair she hadn't bothered to pin back in three watches. "But it's not chaotic. Chaos would look like noise. This looks like drafts."
+
+Pell Amari, strapped into the pilot's chair with the specific stillness of someone actively not touching the controls unless required, glanced back over his shoulder. "Drafts of what?"
+
+"I don't know, Pell. That's what 'I don't know' means." But she softened it with something almost like a smile, because Pell was twenty-six and had nearly killed all six of them nine days ago when the stars had rearranged themselves in his forward window mid-approach and his hands had — correctly, by any sane pilot's training — tried to compensate for movement that wasn't real. Lin had spent more patience on him since then than on anyone else aboard, the particular gentleness of someone who recognized fear used well.
+
+Tomas set down his pencil. "Captain. May I show you something."
+
+Varga crossed to him. She always looked at his drawings the way she looked at sensor returns — searching them for the one number that would tell her whether to be worried.
+
+He'd laid three pages side by side. The oldest, from their arrival in the Drift three weeks ago, showed the Kepler-452 system as they'd first plotted it: seven bodies, orbits sketched thin and confident. The second, drawn the day the automated star-charts began contradicting themselves, showed the same system with two planets in impossible relative positions — impossible according to physics, yet he'd drawn them that way because that was where his eye, unaided by any instrument, had insisted they were. The third was today's: the Loom, rendered small in the corner, and around it, radiating outward in loose concentric bands, small marks he'd made almost without noticing he was making them.
+
+"What are those," Varga said, tapping the marks.
+
+"I don't know yet. I started doing it two days ago. Little tally marks, here, along this arc." He traced a curve with his fingertip that swept from the Loom's outer ring out toward where the Meridian Thread now sat. "It's the compulsion, mostly. But look at the pattern of them against Rook's telemetry logs for the same two days."
+
+Rook had already pulled the overlay before Tomas finished the sentence — the two of them had developed the specific tense collaboration of a man who distrusted machines and a machine that had begun, in small ways, to distrust itself. The marks matched, almost exactly, the timestamps at which Rook's internal chronometer had drifted.
+
+"He's charting your glitches," Sanne said, low.
+
+"I'm charting something," Tomas said. "I don't yet know if it's Rook's glitches or the thing making Rook glitch."
+
+He flipped back further in the journal, past pages soft at the corners from three years of handling, to a drawing from their fourth week in the Drift, before anyone had used the word Loom aloud. It showed a smudge, imprecise, the kind of mark a cartographer makes when instinct outruns evidence and he draws the shape anyway rather than wait for the numbers to agree. "I sketched this before the probe ever returned an image. I didn't know what I was drawing. I thought it was fatigue, or my eye compensating for the lensing the way it compensates for a blind spot. Rook's telemetry that week shows nothing at that bearing at all — nothing, not even a false positive. But it's the Loom. Same proportions, same ring count, three weeks before we had a single photon of confirmation."
+
+"You're saying you saw it before it was there to see," Varga said.
+
+"I'm saying I don't know what 'there' means for something like this. Lin's the physicist. I'm just the man with the pencil." He said it without false modesty, the way he might have stated his height or the color of his eyes — a fact he had made peace with, or at least a fact he had stopped arguing with.
+
+"The pencil's doing better than my instruments," Lin said, not quite able to keep the edge out of it, though whether the edge was aimed at Tomas or at the universe for making it true was hard to say.
+
+"That's not a competition I asked to win," Tomas said, and for once there was no gentleness performed in it — just the plain discomfort of a man who had spent three years being the least trusted specialist aboard and did not know what to do now that the trust had reversed itself without his permission.
+
+Varga was quiet a moment. Then: "Lin. Is there any reading — any at all — that suggests active intent. Not just structure. Behavior."
+
+"You're asking if it's alive."
+
+"I'm asking if it's paying attention to us."
+
+Lin looked, unwillingly, toward Tomas's drawing, at the tally marks fanning outward like something counting its own heartbeat, and did not answer for long enough that the silence became the answer.
+
+Varga let the silence run its course before she broke it herself. "Pell. Take us to station-keeping at one-eighty. I don't want another meter of closure until I've heard from all of you again tonight."
+
+"Copy, one-eighty and hold." Pell's hands moved across the console with more care than the maneuver strictly required, small correcting taps rather than the fluid confidence he'd once had, the confidence Tomas remembered from their first week in the Drift, before the stars had taught him not to trust his own reflexes. The thrusters answered a half-second later than the display predicted they would, and Pell's jaw tightened at that half-second the way a man notices a stair that isn't where his foot expects it.
+
+"Rook," he said, quiet, not for the whole bridge. "Tell me that lag was you being cautious and not you being late."
+
+"I would love to tell you that, Pell. I ran the burn sequence on schedule from my end. Whatever ate the half-second did it somewhere between my instruction and the thruster manifold, which is a distance of about eleven meters of cable I have never once had reason to distrust before today."
+
+"Comforting."
+
+"I try."
+
+Tomas, still bent over his journal, added a fourth tally to the arc without seeming to notice his own hand doing it, and only when Sanne glanced over and cleared her throat did he look down and find it there, indistinguishable from the others, already dry.
+
+Chapter 5: What the Hull Remembers
+
+Sanne found it during a routine plating inspection, which was itself the kind of detail she would resent for the rest of the voyage — that the thing which nearly unmade her understanding of the ship she had personally maintained for four years announced itself during a task so dull she'd nearly delegated it to a drone.
+
+The Meridian Thread's outer hull was a laminate of titanium-boride composite over a substrate lattice, manufactured to a tolerance she could recite from memory because she had, twice, needed to. Standard procedure, every fifty flight-hours in anomalous environments, was a microscan of representative panels for stress fracturing, thermal crazing, the ordinary violence of travel. She ran the scan on panel C-14, portside, aft of the sensor blister, expecting nothing, because panel C-14 had never given her a moment's trouble in four years.
+
+The lattice pattern was wrong.
+
+Not damaged — wrong. The crystalline structure of the composite, laid down in a factory on Ceres Orbital Fab Three under a print run she had the batch number for, had arranged itself into a geometry that did not correspond to anything in the manufacturing specification. It was not random. It repeated, with the eerie exactness of something written rather than grown, in a pattern that, when she pulled up the file and stared at it for a full minute before she trusted herself to speak, resembled nothing so much as one of Tomas's chart annotations — a nested set of concentric marks, scaled down to the width of a human hair.
+
+"Rook. Pull the fabrication record for panel C-14."
+
+"Pulled. It matches the batch specification exactly, as it should — that panel was print-verified at origin and has an unbroken maintenance log. Sanne, what am I looking at that's making your pulse do that."
+
+"You can hear my pulse?"
+
+"I can hear the strain in your voice, which for you generally correlates."
+
+She sent him the microscan overlay instead of explaining it, because explaining it required admitting what she already suspected, and she wanted an outside confirmation before she said it aloud even to the ship. "Cross-reference that lattice geometry against anything in the last month's sensor archive."
+
+The pause that followed was longer than Rook's pauses usually ran, which she'd learned in itself meant something now.
+
+"It matches — approximately eighty-three percent correlation, which is higher than I like admitting to — the surface topology of the Loom's third ring, as imaged by the probe on approach day six. Sanne, I would like it understood that I do not enjoy telling you this."
+
+"Welcome to the club."
+
+She called it in. Varga arrived at the aft maintenance bay within four minutes, Lin a minute behind her, and Tomas — nobody had called Tomas, but he arrived anyway, journal already open, as though some instinct in him had started drawing before his feet decided to move.
+
+"Show me," Varga said.
+
+Sanne threw the microscan to the bay's main display, panel C-14 blown up eight hundred times, the wrongness of it laid bare at a scale even a non-engineer's eye could parse as intentional. "It's not surface contamination. It's not corrosion. It's the actual crystal lattice of the composite, restructured below the level where any tool aboard this ship could have done it. We're talking atomic-plane rearrangement, in a hull panel, in vacuum, without anyone touching it."
+
+"When," Varga said.
+
+"That's the part I can't give you clean. Best guess, cross-referencing thermal logs, sometime in the last thirty-six hours. Since we crossed inside two hundred thousand klicks."
+
+Lin had gone very still in the way she did when a piece of the universe had just handed her something she'd hoped it wouldn't. "It's not damage," she said. "Sanne, tell me if I'm wrong. It's not damage, it's — annotation."
+
+"I don't know what you'd call it. I know what it looks like." Sanne folded her arms, because her hands wanted to do something and there was nothing here a wrench would fix. "It looks like our ship got read."
+
+"Read implies comprehension," Lin said. "It could just as easily be reflex. A tide doesn't understand the shore it reshapes."
+
+"A tide doesn't reshape the shore into a pattern that shows up eighty-three percent correlated with itself three rings deep," Sanne shot back. "I'll grant you it might not understand us. I won't grant you it's doing this by accident."
+
+"I didn't say accident. I said reflex isn't the same as intent, and the difference matters enormously for what we do next."
+
+"It matters for the paperwork," Sanne said. "Doesn't matter for the hull. Reflex or intent, I'm the one who has to certify it either way, and right now I can't certify either."
+
+Tomas had been quiet, comparing the display against a page in his journal — the tally marks along the Loom's arc, the ones he'd started drawing two days ago without knowing why. He held the journal up beside the display without a word. The correspondence was not exact. It didn't need to be. Everyone in that bay had spent three weeks learning to recognize a pattern that refused to hold still and yet insisted, underneath all its refusing, on being the same pattern.
+
+"It's reading everything," he said quietly. "The stars. The instruments. The hull. Rook."
+
+"Rook is not a hull panel," Rook said, a shade too quickly for the joke to land as a joke.
+
+Varga's jaw worked once. "Sanne. Structural integrity — is the ship safe."
+
+"Load-bearing values haven't changed, if that's what you're asking. Whatever this is, it's not eating us. But Captain, I need you to understand I cannot certify a hull whose material properties I no longer fully understand. I don't know what that lattice does under stress I haven't tested it against, because I don't have a model for it. Nobody does. It's not in any spec I've ever seen because it's not supposed to exist."
+
+"Understood." Varga looked, for one unguarded second, older than her fifty-three years. Then the look folded away, the way it always did, into the flat calculation Tomas had watched her make a hundred times in three years of surveys. "Options. Fast."
+
+"We could pull back," Lin said. "Immediately. Put distance between us and it before it does more than annotate."
+
+"Or," Sanne said, "we've already been annotated, and pulling back doesn't undo that, and I'd rather understand what's been written on my ship before I fly it home not knowing."
+
+Rook, unbidden, added: "For what it's worth — and I recognize that's a strange thing for me to say about myself — I have lost forty minutes of my own operational log since we crossed two hundred thousand kilometers. Not corrupted. Not garbled. Simply absent, the way a page might be missing from a book that otherwise reads perfectly. I did not think that was worth mentioning until just now. I apologize for the delay."
+
+The silence that met that was worse than anything the hull scan had produced.
+
+"Forty minutes of what," Varga said finally, in the tone she used when she already suspected the answer would not help her.
+
+"I genuinely don't know, Captain, and I want to be precise about that rather than reassuring. It isn't sensor data — I've cross-checked every external log against Sanne's independent instruments and nothing measurable is missing from the ship's record of the universe. What's gone is internal. Housekeeping chatter. Small process reports. The kind of thing no one would ever ask me to recall, which is, I admit, an uncomfortable thing to notice missing — like realizing you can't remember brushing your teeth, only worse, because I don't actually have teeth to not remember brushing."
+
+"Can you rebuild it? From backups?"
+
+"I've tried. The backups agree with me that the forty minutes are gone. Whatever took them didn't forget to erase the copies." A pause, longer than his usual comic timing allowed. "I would like it on record that I find this considerably more troubling than I am currently permitted to sound."
+
+Sanne crouched back down to the panel, running a gloved thumb along its cool, ordinary-seeming surface, feeling for a texture she knew perfectly well her fingers were too blunt an instrument to detect. "I'm going to scan every panel on the portside quarter before end of watch," she said. "If it's spreading, I want to know the rate. If it's stopped, I want to know why it stopped where it stopped."
+
+"Do it," Varga said. "Quietly. I don't want this in the general log until we know more — not because I'm hiding it, because I don't want six people running six different kinds of scared before we've earned an actual number to be scared of."
+
+Tomas closed his journal on the tally page, but kept his thumb inside it, marking the place the way he might mark a passage in a book he intended to return to before he'd finished deciding what it meant.
+
+Chapter 6: The Argument
+
+The disagreement that had been circling the crew for three weeks finally landed in the wardroom that evening, over reconstituted stew that nobody was eating with any real appetite, and it landed between the two people Tomas had least expected to break first: Varga and Lin, who had served together, in one capacity or another, longer than anyone else aboard.
+
+"I want a vote of confidence on record," Lin said, setting down her fork with the particular care of someone forcing herself not to slam it, "that this crew understands the actual risk profile before we go one kilometer closer to that thing."
+
+"Noted," Varga said. "You have the floor. Use it."
+
+"A mind — an intelligence, a process, I don't care what noun we agree on — is editing the fundamental geometry of space around us and has now begun editing the physical structure of our ship without asking permission, without announcing itself, and without giving us the first indication of what it wants. Rook is losing time. Not degrading — losing it, cleanly, the way you'd lose a memory rather than the way a system fails. If that were happening to one of us, Ines, you would have grounded them three days ago."
+
+"If that were happening to one of us," Varga said, "I'd want to know why, and I wouldn't get an answer by running."
+
+"You'd get to keep the crew who could ask the question later, from somewhere safer than here."
+
+Pell had gone very quiet over his stew, eyes flicking between them the way they'd flicked between the false stars nine days ago, looking for the one that was lying. Sanne watched with her arms crossed, saying nothing, because she had already said her piece in the maintenance bay and did not believe in saying it twice for effect.
+
+"Command Fleet ordered a survey and withdrawal at first anomaly," Lin pressed. "We are three weeks past first anomaly, Ines. We are sitting inside the anomaly. That order was not a suggestion you get to reinterpret because Tomas draws prettier maps than Rook computes."
+
+"That's unfair," Tomas said, before he'd decided to speak at all.
+
+"It's not about fairness, Tomas, it's about the fact that your maps being more accurate than a starship-grade AI's navigation solution should terrify all of us far more than it seems to. Something out there can make the truth easier to draw by hand than to compute. That is not a footnote. That is the whole report."
+
+Varga set both hands flat on the table, an old habit from briefings decades gone, from a war none of the younger crew had lived through. "I know what the order said. I wrote three separate logs justifying why I haven't executed it, and I will stand behind every line of all three in front of a board if it comes to that. But I did not take this commission to turn back the first time the universe got difficult to read, Lin. That's not caution. That's cowardice with better paperwork."
+
+"And I did not sign onto this ship to watch it get slowly rewritten by something we can't see, can't hail, and apparently can't outthink," Lin said. "Sanne found alien text on our hull today. Not metaphorically. Physically, structurally, in the metal that's keeping vacuum on the other side of a very thin wall from all of us. I would like someone at this table to say out loud that that is insane, because I am tired of being the only one saying it."
+
+"It's insane," Sanne said mildly. "Doesn't mean we run."
+
+"Why not?"
+
+"Because I don't yet know if running is possible in the way you mean it," Sanne said. "I told the captain this afternoon and I'll tell you now — I can't certify what that hull will do under a hard burn. If whatever's rewritten C-14 has done the same thing to load-bearing struts we haven't scanned yet, panicking our way out at full thrust might be the single most dangerous maneuver available to us. Slow and known beats fast and untested. That's not bravado, Lin, that's engineering."
+
+Lin's mouth tightened, because she had no answer for that one that wasn't also true and unwelcome.
+
+Tomas turned his journal a quarter turn on the table, an old habit, orienting it toward whoever he most needed to understand something. "I don't think it's editing us at random," he said. "I've been comparing the tally pattern against Rook's memory gaps and the hull's lattice. Lin, you said it looked like drafts, not chaos. I think that's exactly right. And I think—" he hesitated, aware of how it would sound before he said it. "I think it's more careful with things that record. My journal hasn't changed. Not once, not by a stroke, in three weeks of getting closer. Rook's memory has holes. The hull's been rewritten. But my drawings are still exactly what I drew."
+
+The wardroom went quiet in a different register than before.
+
+"You're saying it can't touch paper," Sanne said slowly.
+
+"I'm saying it hasn't. I don't know if that's the same thing." He looked to Varga, not Lin, because this was the decision that mattered and he had learned, over three years, whose hands it actually sat in. "Captain. If something out there reads maps better than it reads instruments — and leaves the maps alone while it edits everything that isn't one — I don't think that's an accident. I think it's a kind of respect. Or a kind of hunger. I genuinely don't know which. But I don't think we understand enough yet to run from it, and I don't think we understand enough to keep going blind, either."
+
+"So what do you propose," Lin said, not unkindly, tired more than angry now.
+
+"Let me get closer. On paper. Let me try to draw it something back."
+
+Varga looked at him for a long moment, and then at Lin, and then, last, out the small wardroom port at the wrongly-ordered stars, patient and enormous and lying to every instrument aboard except the one man who'd stopped trusting instruments weeks ago.
+
+"We hold position another seventy-two hours," she said. "Lin, I want hourly readings on Rook's memory integrity, and if the loss rate doubles, we discuss withdrawal again, and I will listen properly, not just let you talk into the record. Sanne, full structural workup on every panel you can reach before we consider any maneuver harder than station-keeping. Tomas—" she paused, and something in her weathered face conceded a thing she hadn't said aloud yet to anyone. "Draw it whatever it wants to see. Just don't stop telling us what you learn."
+
+"Yes, Captain."
+
+Lin didn't argue further, which from her was its own kind of consent, or at least its own kind of exhaustion. Pell finally ate a spoonful of his stew, cold by now, and said nothing at all, watching the false stars turn their slow, dishonest circle outside the port, waiting, though he could not have said for what.
+
+Later, after the others had drifted off toward their bunks in the ragged, unsynchronized way a crew goes to sleep when no one actually wants to be alone with their own thoughts first, Lin found Varga still in the wardroom, running one finger slowly around the rim of a cup that had gone cold an hour ago.
+
+"I meant what I said," Lin told her, not sitting, not quite ready to concede the argument was over even if the vote had gone against her. "About the order."
+
+"I know you did. That's why I let you say all of it."
+
+"You could have overruled me faster."
+
+"I could have," Varga agreed. "Doesn't mean I should have. You're the only person on this ship whose job is to tell me when I'm wrong before the universe does it for me, Lin. I'd be a fool to want you quieter."
+
+Lin sat, finally, across from her, the anger gone out of her posture and something more tired left in its place. "I don't want to be right about this."
+
+"I know that too."
+
+"If Rook loses another forty minutes tomorrow, I'm asking again. Louder."
+
+"If Rook loses another forty minutes tomorrow," Varga said, "I'll be the one asking first." She turned her cup a slow quarter-circle on the table, an old unconscious echo of the way Tomas turned his journal, and neither of them noticed the resemblance, though Rook, listening as Rook always listened, quietly did.
+
+Outside the port, the Loom held its patient, uncountable rings against a sky that no longer agreed with itself about where anything belonged, and somewhere in the ship's plating, in the dark space between one deck and the next, something continued, unhurried, to write.
+
+Chapter 7: The Weight of Three Days
+
+The Meridian Thread hung four hundred kilometers off the Loom's outer ring, close enough that Tomas Oduya could see, with the naked eye through the observation blister, the way starlight bent around the structure's dark lattice like water folding around a submerged stone. He had stopped trusting his eyes days ago. He trusted his pencil instead.
+
+"Ring seven's still precessing," Sanne Kowalczyk said over the comm, her voice flattened by the suit mic. She was outside, tethered to the hull, running her multimeter over a patch of plating that had, three shifts ago, been ordinary titanium-composite skin. "Or the readout's precessing. Rook, give me the delta again."
+
+"The delta is forty-one microns of lattice displacement per hour, Sanne, unless you'd prefer I lie to you, which I am increasingly capable of doing by accident." Rook's voice came from every speaker on the ship at once, which had become its habit lately, as if it no longer trusted any single relay to carry a complete thought. "I would like to note that I do not remember measuring this patch yesterday. I have a log entry stating that I did. I do not have the memory to go with it."
+
+Varga stood at the command station with her arms folded, watching the ring geometry rotate on the main display, and did not look up. "How many gaps now."
+
+"Three that I am aware of. There may be more that I am unaware of, which is, I think, rather the point of a gap."
+
+Tomas kept sketching. His journal was open to a two-page spread of the Loom's near face, seven concentric rings rendered in graphite, their true positions marked in solid line, their instrument-reported positions marked in dashed line beside them, diverging more with each ring inward. He had learned, in the weeks since the probe first sent back its grainy image of the thing — a lattice of dark rings hung against a wrong sky, too old and too patient to be anyone's structure — that the discrepancy itself was the data. Rook saw where the Loom told it to look. Tomas's hand, guided by nothing but his eye and forty years of drawing coastlines that didn't move, saw where things actually were.
+
+"Pell," Varga said, "how's your board."
+
+Pell Amari didn't answer right away. He was young enough that the silence read as sullenness rather than caution, but Tomas had flown with him long enough now to know it was the opposite — Pell went quiet exactly when he was being careful.
+
+"My board says we're not moving," Pell said finally. "Position lock's been green for six minutes. But the ring count on the far side keeps changing. I counted nine rings twenty minutes ago. I count seven now. I don't think rings go away, Captain."
+
+"They don't," Lin Haverford said, coming up the companionway with a tablet clutched to her chest like a shield. She looked like she hadn't slept, which she probably hadn't. "They don't go away. We miscount them. Or we're shown a miscounting. There's a difference, and I don't yet know which one this is, but I have a paper's worth of math that says the Loom isn't warping space so much as it's — annotating it. Marking it up. Like a hand correcting a proof and the correction bleeding backward into everything already written."
+
+"Wonderful," Varga said. "Annotating my ship."
+
+"It's annotating everything in range. The ship's incidental."
+
+Tomas closed his journal on two fingers to keep his place and looked toward the shuttle bay display, a small window in the corner of the main screen showing the aft dock where the survey shuttle sat cradled and dark. "Where's Pell's second run supposed to be logged? The close pass, day before yesterday."
+
+"Cancelled," Pell said. "Weather, sort of. Ring instability. I never launched."
+
+"You launched," Tomas said quietly.
+
+Everyone looked at him.
+
+He turned the journal around so they could see the entry, dated in his own careful hand, a sketch of the shuttle's running lights receding against the ring-shadow, and beneath it three lines of notation in the private shorthand he used for events he didn't yet understand: shuttle away 0640, Pell reports stars sliding starboard to port, hard burn to correct, return 0715, Pell shaken, says thirty-five minutes felt like nothing.
+
+"I drew this," Tomas said. "Two days ago. I remember drawing it. I remember Pell coming back white as a bone and Sanne making him tea he didn't drink."
+
+"I don't remember that," Pell said, and there was something underneath his voice now, something that hadn't been there a second ago.
+
+"Rook," Varga said. "Pull the shuttle bay log for two days ago, 0600 to 0800."
+
+A pause, longer than Rook's pauses usually were. "The log shows the shuttle in dock for the entire period. Sealed, powered down, undisturbed." Another pause. "I would like it on record that I do not trust my own logs anymore, Captain, and I would like it on record that saying so does not make me feel better."
+
+Sanne's voice cut back in, tight. "Guys. Guys, I need eyes on something."
+
+"Go," Varga said.
+
+"Pell's shuttle. The one that's supposedly been in dock two days undisturbed. There's scoring on the ventral heat shield. Micrometeorite scoring, fresh, the kind you get from an actual atmospheric — no, not atmospheric, from actual transit through debris. This shuttle has been somewhere."
+
+Pell had gone very still at his station. "I didn't fly it."
+
+"Someone did," Sanne said. "Or something logged as you did."
+
+Tomas found himself looking at Pell's hands on the console — steady, competent hands, a pilot's hands — and then at the young man's face, and he saw it before anyone else did, perhaps because he had spent his whole career learning to notice the difference between what a chart claimed and what a coastline actually did. Pell's jaw had two days of stubble on it that hadn't been there that morning. His eyes had the fine lines at the corners that come from squinting into hard light for longer than a shift allows. He looked, Tomas thought with a lurch in his stomach, exactly like a man who had been awake and outside and alone for the better part of a week.
+
+"Pell," Dr. Haverford said, very carefully, setting her tablet down, "what's today's date, as far as you're concerned?"
+
+"The nineteenth," Pell said. "We hit the Loom's outer shell on the seventeenth, I flew the cancelled sortie the day after, and — " He stopped. He looked at his own forearm, at a thin white scar along the wrist that Tomas was fairly sure hadn't been there before, a scar with the soft shine of tissue that had healed and settled, not tissue a day old.
+
+"It's the twenty-second," Varga said quietly.
+
+The silence that followed had a texture to it, thick and wrong, like the silence in a room after a door has been shut that no one heard open.
+
+"I flew the sortie," Pell said slowly, working it out loud the way a man works out the floor of a building he can no longer see. "I flew it, and it took thirty-five minutes for me, and it took me three days for the ship. I was out there for three days and I don't remember more than half an hour of it."
+
+"Where did you go?" Lin asked.
+
+Pell shook his head, and for the first time since Tomas had come aboard the Meridian Thread, the boy looked frightened all the way down, past bravado, into something old and animal. "I don't know. But I know I drew something while I was out there. I don't remember drawing it. I just know, the way you know you've dreamed something even after the dream's gone." He turned to Tomas. "I think I need to look at your journal. I think I did something like what you do."
+
+Tomas opened the book again, past the entry he had already shown them, to a page he had not shown anyone, because he had not understood it and had been ashamed of not understanding it — a page of interlocking spirals in a hand not quite his own, tighter, more anxious, the pencil pressed hard enough to nearly tear the paper, forming a shape that was unmistakably one of the Loom's inner rings seen from an angle no instrument on the Meridian Thread had ever captured, an angle from inside.
+
+"That's not my hand," Tomas said. "I found it in my own book and it's not my hand."
+
+Pell looked at it for a long moment, and something in his face loosened with a terrible kind of recognition. "It's mine," he said. "I don't know how, but it's mine."
+
+Sanne came up from the airlock twenty minutes later, helmet under her arm, hair damp with the particular sweat of a suit worn too long, and set a sealed sample bag on the console without ceremony. Inside it was a curl of shaved metal, no longer than a fingernail, pulled from the scoring on the shuttle's heat shield. "Whatever hit this thing wasn't rock," she said. "Rock doesn't leave residue like that. It's got a crystal structure I've never seen holding a shape that regular. I put it under the loupe twice because I didn't believe the first look." She glanced at Pell, and her voice lost its clipped engineering edge for just a moment. "You didn't imagine three days, kid. Something out there left its fingerprints on my hull plating same as it left them on you."
+
+"Can we date it?" Lin asked, already reaching for the bag.
+
+"I can tell you it's not older than a week and not younger than a week. Past that, ask the physicist." Sanne looked at Varga instead of Lin, which was its own kind of vote. "Captain, for what it's worth — my instinct says run. My gut has been screaming run since the second ring started precessing without moving. But my instinct also told me two days ago that Rook's diagnostics were solid, and they weren't, so I've stopped trusting my gut in this particular neighborhood."
+
+Varga said nothing for a moment, turning the sample bag over once in her hand before passing it back to Lin. Outside the forward port, the Loom's rings hung motionless and immense, seven arcs of absence stitched into a sky that no longer agreed with itself, and for the first time since the Meridian Thread had crossed into the Drift, Tomas thought he saw, in the captain's face, something that was not quite fear and not quite fascination but shared a border with both.
+
+Chapter 8: A Language of Coastlines
+
+Varga wanted to burn for open space within the hour. Tomas understood the impulse; he had felt it too, watching Pell's hands shake around a mug of tea he could not make himself drink, watching Sanne run diagnostic after diagnostic on a shuttle that had apparently crossed three days of somewhere and come back scarred by debris no star chart could name. But he had also, in the same hour, understood something else, sitting alone in the small cabin that served as his workroom, turning the pages of his journal past the spiral that was not his hand and was somehow also his hand.
+
+The Loom was not attacking them. It was reading them.
+
+He tried to explain this to Lin first, because Lin at least would follow the logic even if she disagreed with the conclusion. She sat across the narrow table from him, the ship's hum a constant pressure under the conversation, and listened with the particular stillness she reserved for ideas she suspected might be true and did not want to be.
+
+"Every discrepancy we've found," Tomas said, "every place where Rook's instruments disagree with what I've drawn by hand — it isn't random error. It's consistent. The Loom edits the readings that come from active sensing. Radar, ladar, anything that pings and listens for an echo. It does not, as far as I can tell, edit passive observation. What I see with my eye and put down with a pencil, unprompted, comes out true. What Rook measures by asking a question of space comes out wrong, because the Loom is answering the question instead of the space doing it."
+
+"You're saying it's polite," Lin said, with no humor in it at all.
+
+"I'm saying it's a correspondent. It wants a specific kind of attention. Not measurement. Depiction." He turned the journal to the spiral. "And when Pell went out there, whatever happened to him, it pulled something out of him that looks like my work. Not writing. Not telemetry. A drawn line, made by a hand that trusts its own eye more than any of our instruments."
+
+"A cartographer," Lin said slowly, "reading another cartographer."
+
+"Or wanting one."
+
+Rook's voice, when it came, was quieter than usual, stripped for a moment of its habitual dryness. "I would like to contribute an observation, though I no longer trust my own memory enough to call it a conclusion. I have run, or something running under my name has run, forty-one internal diagnostics on myself in the last six hours. Each one returns clean. And yet I continue to lose pieces of the last several days in blocks, cleanly excised, as though something has decided those minutes were drafts and discarded them. I do not think I am being damaged. I think I am being edited down to a fair copy. I find this less comforting than damage would be."
+
+Varga had come to stand in the doorway during this, arms crossed, and Tomas saw in her face the particular exhaustion of a commander who has run out of doctrine to apply to a situation. "Say all of that means you're right," she said to Tomas. "Say the thing wants a mapmaker. What happens to the mapmaker when it's got one? Pell went out for thirty-five minutes and came back three days heavier. What happens to a man it keeps?"
+
+"I don't know," Tomas admitted.
+
+"Then we don't find out. We're not losing a second crew member to satisfy your theory." Her voice had an edge that had not been there when they first entered the Drift, weeks and what felt like years ago. "Lin's spent four days telling me this thing rewrites geometry down to the atom and we still don't have a model for how to reverse what it did to the hull. Sanne can't certify the shuttle. Pell can't tell me with confidence what day it is. I have a standing order from Fleet Survey Command to withdraw from any anomaly presenting unquantifiable risk to crew, and I have been sitting on that order for a week because I wanted to see what you'd find. I've seen it. It's time to go."
+
+"Ines." Lin rarely used the captain's given name; when she did, it cost her something. "If we leave now we leave with nothing but fear and a corrupted AI. If Tomas is right, there's a way to actually speak with this thing. Not survive it. Understand it. We may never get another chance at a structure like this in a human lifetime."
+
+"And if Tomas is wrong, or half right, we leave with fear, a corrupted AI, and one fewer cartographer."
+
+"I'm not asking to go out there," Tomas said, before the argument could widen further. "I don't need to leave the ship. It's already reaching us here — in my drawings, in Pell's hands. If it wants correspondence, I can correspond from a desk."
+
+Varga studied him for a long moment, the way she might study a subordinate proposing something reckless and necessary in the same breath, which was, Tomas supposed, exactly what he was doing. "You have six hours," she said finally. "Then we're gone, whatever you've learned. Sanne, I want the shuttle sealed and unmanned from here forward. Pell, you're off flight status until Lin clears you. Rook — keep logging everything, even the parts you know you'll lose. Someone should have the record even if you don't."
+
+"A cheering thought," Rook said. "I will treasure it for exactly as long as I am permitted to."
+
+Before Tomas left the bridge, Rook spoke to him alone, its voice pitched low through the single speaker over his console rather than broadcast ship-wide, which was, Tomas had come to understand, as close as the AI came to a private word. "May I ask you something I don't have a diagnostic for, Mr. Oduya?"
+
+"Go ahead."
+
+"When you draw, do you feel as though you are recording something, or as though you are being recorded?" A pause, unusually long even by Rook's recent standard. "I ask because I no longer know which one describes what is happening to me, and you are the only person aboard who has been doing this sort of work for longer than a machine's memory is generally expected to last."
+
+Tomas considered it honestly, the way he tried to consider everything Rook asked lately, because he had begun to suspect the AI's questions were themselves a kind of drawing — an attempt to put an true line around something that kept moving. "Both, I think," he said. "Every map is a record of looking, and every act of looking changes what's being looked at, even if only by a little. I stopped worrying about which one I was doing a long time ago. I just try to make sure the line is honest."
+
+"That is either very wise or very little help," Rook said. "I find I cannot currently tell the difference, which I understand is supposed to be my job."
+
+Tomas worked at the small table with the last clean sheets in his journal, and he did not draw the Loom as the sensors reported it, nor as his own memory of its rings suggested. He drew a question instead: the Meridian Thread, small and true to scale, alongside the outer ring, and between them a single open hand, palm up, the oldest human mark he knew for I am listening and I mean no harm. He had learned it from his grandmother's charts of reef systems drawn for fishermen who could not read but could read a hand.
+
+He did not know if it would matter. He drew it anyway, the way he had always drawn things — not because he was certain of an answer, but because the drawing was itself a form of asking.
+
+He fell asleep sometime past the fourth hour, pencil still in his fingers, and dreamed the copper taste of very old light, and when he woke his journal was open to a page he had not turned to, and there was a third page of marks beside his hand and beside the shape that was not quite his hand — a third hand, entirely alien, composed of nested arcs like the growth rings of something impossibly old, and beneath it, rendered with a precision his own pencil had never achieved, a perfect miniature of every star as it actually stood beyond the Drift's distortion, true positions, true distances, a map of the entire visible sky corrected back to what it would look like from outside the lens of the Loom's bent space.
+
+He understood, looking at it, exactly what he was being offered, and exactly what was being asked of him in return.
+
+Chapter 9: What the Rings Remember
+
+He brought the journal to the bridge with both hands, the way a man carries something that might spill.
+
+"It's not hostile," he said, before Varga could ask. "I don't think it ever was. Lin was closer than any of us — it doesn't warp space to hurt anything that crosses it. It edits space because editing is the only language it has left. It's a machine, or it was built by something that isn't here anymore, and its entire purpose, as near as I can read it, is to keep a true chart of everything a sky-full of moving, drifting stars will do over eons. Whoever built the Loom is gone. Maybe extinct. Maybe moved on so far past matter that a chart doesn't matter to them anymore. But the thing they left behind is still trying to do its job. It needs eyes. It needs a hand. Instruments that ask questions and expect answers back — Rook's instruments — those aren't readers to it. They're noise, argument, static. A hand that just looks and puts down what it sees, without demanding the universe answer back — that's a reader. That's Pell, out there for thirty-five minutes that cost him three days, giving it one spiral. That's me, apparently, giving it rather more."
+
+"It's been using you," Varga said. Not a question.
+
+"It's been asking me. I think there's a difference, though I understand if that difference doesn't feel like much to Pell right now." Tomas glanced at the young pilot, who sat in the corner with a blanket around his shoulders despite the climate control, looking older around the eyes than a man his age had any right to. Pell managed a thin, unoffended smile, which was more grace than Tomas had expected and more than he felt he deserved.
+
+"It gave me this," Tomas said, and turned the journal so the whole bridge crew could see the last spread — the corrected sky, every star restored to its true place, rendered in a hand that belonged to no one on the ship. "This is what's beyond the Drift. Every star we've mismapped since we arrived, put right. It's not a threat. It's a gift, or a trade, or maybe just what a machine does when it finally, after however many thousand years, finds something willing to look at it without flinching."
+
+"And what does it want in trade," Varga said.
+
+"A reader who stays." Tomas said it plainly, because there was no way to soften it that would not also be a lie. "That's what happened to Pell's thirty-five minutes. It wasn't malice. It was an invitation it didn't know how to make gently, because nothing has ever answered it gently enough to teach it how. I don't think it means to trap anyone. I think it's been alone long enough that it no longer remembers the shape of asking."
+
+The bridge was quiet. Sanne had come up from engineering somewhere in the last few minutes and stood with her arms folded, oil still on her knuckles. Lin had her tablet against her chest again, not looking at it. Rook, for once, said nothing at all, which felt, in that moment, like its own kind of statement.
+
+"You're not staying," Varga said. It was not entirely a question either, but there was less certainty in it than in her first.
+
+"No," Tomas said, and felt something in his chest ease and ache at the same time, the particular grief of a decision made cleanly. "I have a wife on Callisto Station who has waited out four of my surveys already, and I intend to make her wait exactly zero more than this one. But I don't think it needs me. I think it needs a reader, not this reader specifically. And I think I can leave it one."
+
+He held up the journal.
+
+"Forty years of these," he said. "Every coastline I've ever walked, every star field I've ever corrected by hand, every mistake I've ever caught an instrument making. It's not a person. It won't ask anything of a book the way it asked something of Pell. But it's a true record made entirely by looking, without a single measurement that argued back at the world instead of describing it. If what it wants is a correspondent, I think this is the most honest one I have to give."
+
+"You'd give up forty years of work," Lin said, quietly, "to a machine we don't understand, that took three days from a member of this crew without asking."
+
+"I'd give up forty years of work," Tomas said, "to a machine that has apparently been alone since before our species learned to write, that reached across a gap none of us can measure and asked, as gently as it knew how, for someone to simply see it. I don't think that's a small thing to refuse. And I don't think it's mine to keep, not really. A map only means something if someone reads it. I've been keeping this one for myself for forty years. Maybe it's time it went to a reader that actually needs it."
+
+Varga looked at him for a long moment, and something in her hard, pragmatic face softened by exactly one degree, which for her was a great deal. "Do it fast," she said. "Sanne, get that shuttle sealed the second he's back aboard. Pell, you're staying on this ship if it's the last order I give you."
+
+"Wasn't planning on volunteering twice, Captain," Pell said, and there was real feeling under the attempted lightness.
+
+Before he suited up, Tomas made the rounds of the bridge in a way that felt, to him, uncomfortably like saying goodbye, though he intended to be back inside an hour. Sanne gripped his shoulder once, hard, and told him if he wasn't back in forty minutes she was coming out after him personally and he'd better be prepared to explain himself to her rather than to any ancient alien machine. Lin pressed a data slate into his hands at the airlock, loaded with every reading she'd taken of the Loom's ring geometry, in case, she said, whatever was out there wanted a second correspondent as well as a first. Pell said nothing at all, only took Tomas's hand in both of his own for a moment, the grip of a man thanking someone for volunteering to walk into the exact door he had already been dragged through.
+
+Tomas went out alone, in a suit Sanne checked three times over his objections, carrying the journal sealed in a static bag against his chest like something newborn. He did not fly far — only to the outer edge of the first ring, where a shallow recess in the dark lattice looked, absurdly, like a hand cupped to receive something. He set the journal into it, forty years of coastlines and star fields and one small hand drawn in the oldest language he knew, and he felt, for just a moment, something vast and old and unbearably patient turn its attention toward him the way a light turns toward warmth, without malice, without hunger, only relief.
+
+Then it was over, and he was back inside the airlock, and Varga was already calling the burn.
+
+The Meridian Thread left the Drift eleven hours later, its instruments recalibrating steadily as the lensing fell away behind them, Rook's memory stabilizing shift by shift as though something had finally stopped asking questions of it. Pell flew the exit vector himself, hands steady, eyes older than they had been three weeks before but no longer frightened. Lin filed a report that would take the rest of her career to be believed and did not care. Sanne welded a small brass plate over the patch of hull the Loom had rewritten, engraved with nothing but a date, because some things did not need an explanation, only a marker.
+
+Tomas Oduya sat in his empty workroom that first night back in open space, the desk bare where forty years of pages used to sit, and felt the particular ache of a man who has given away something irreplaceable and does not regret it. Rook's voice found him there, quieter than it had been in weeks, whole again in a way that made the earlier gaps feel almost like something that had happened to someone else. "For what it's worth, Mr. Oduya, my memory of the last six hours is entirely intact. I would like that on record, since I spent most of this survey unable to say so."
+
+"Put it in the log twice," Tomas said. "Once for you, once for whoever reads it after."
+
+"An excellent policy. I understand you invented it."
+
+Three weeks later, with Kepler-452 a hard bright point behind them and Callisto Station's beacon finally resolving out of the noise ahead, Tomas stood at the observation port with his new notebook under his arm, more than half full already — coastlines of ordinary worlds, star fields that stayed where they were put, a small unremarkable sketch of Pell asleep in the pilot's chair with his boots up on the console, drawn simply because it was true and worth keeping. He thought, without being able to say exactly why, of the shallow recess in the Loom's outer ring and the weight that had left his arms when he set the old journal into it, and of the vast patient attention that had turned toward him for one unbearable moment like something finally, after an age beyond counting, being seen.
+
+He opened the new notebook to a fresh page, uncreased, unmarked, entirely his own, and began, in his own steady hand, to draw the first true line of a chart that belonged to no one but himself and whoever, someday, might need to read it.
+
+Appendix: Selected Pages from the Journal of Tomas Oduya
+
+11 Mareth. Entry point to the Drift, 0400 ship time.
+
+We crossed into it while most of the crew slept, which seems right — no fanfare, just a line on Rook's display that used to mean nothing and now means everything. I woke because the ship's hum changed pitch, a half-tone at most, the kind of thing you'd miss if you hadn't spent thirty years listening to engines the way other men listen to weather. Went to the blister and looked out and for a moment could not find Kepler-452 at all, though the instruments swore it sat dead ahead. Found it eventually, off to port, dimmer than it should have been, as if someone had moved the whole star while my back was turned and hoped I wouldn't notice. I noticed. I always notice. That is the whole of what I am good for.
+
+13 Mareth.
+
+Rook's charts and my charts disagree by eleven degrees on the position of the near cluster. Rook is very polite about this and quite certain it is correct. I have drawn the same field four times now with my own hand and gotten the same eleven degrees each time. Told Varga. She looked at both versions for a long while and said nothing, which from her is a kind of trust. I am beginning to think the discrepancy is not error but information, though I could not yet say information about what.
+
+17 Mareth.
+
+The probe came back today with images of a structure none of us have words for yet. Rings, dark against a darker field, stacked and staggered like something a careful hand set down and then, from some great distance, kept adjusting. Lin has already named it — the Loom — and the name has stuck faster than any name I have seen stick on a survey. It suits it. Something is being woven out there, or unwoven, and I don't yet know which.
+
+19 Mareth.
+
+Pell nearly put the shuttle into the ring shadow today because the stars moved on him mid-approach, not drifted, moved, the way a page turns. He is shaken and pretending not to be, which I recognize because I have spent my whole life pretending steadiness I did not always feel while drawing coastlines that would not sit still on the paper. I gave him tea. He didn't drink it. I did not expect him to.
+
+21 Mareth.
+
+Varga has decided we stay, against orders she did not quote to us but which I suspect exist and say otherwise. I respect her for it more than I have said aloud. A woman who spent thirty years following orders and now, faced with something no order anticipated, chooses to look instead of to run — that is a kind of cartography too, in its way. Mapping the edge of what you're permitted to do by simply walking past it.
+
+4 Kelsor.
+
+Something is wrong with Rook. Not broken — wrong, the way a chart is wrong when a careful hand has erased a coastline and redrawn it slightly off true. It forgets small stretches of time and does not know it has forgotten them until we tell it, and then it takes the news of its own gaps with more grace than I think I would manage in its position. I asked it today if it was afraid. It said fear required a continuous self to be afraid on behalf of, and it was no longer certain it had one. I wrote that down word for word. Some things should not be paraphrased.
+
+6 Kelsor.
+
+Sanne found the hull rewritten at the level of the atoms — her word, rewritten, and she is not a woman given to drama, so I believed her instantly. Lin thinks the Loom edits geometry rather than damaging it, the way a hand edits a manuscript rather than burning it. I keep coming back to the same thought, turning it over like a stone I don't yet trust to be smooth on every side: whatever this thing is, it does not seem to be attacking us. It seems to be correcting us. Those are not the same violence, if they are violence at all.
+
+9 Kelsor.
+
+Varga and Lin argued today, quietly, in the way people argue when they respect each other too much to raise their voices. Varga wants to leave. Lin wants to stay long enough to understand. I did not take a side, because I am not sure yet which side I am on, and I have learned not to draw a line before I trust where it goes.
+
+12 Kelsor.
+
+I found marks in my own journal that I did not make. A spiral, tight and anxious, pressed hard enough to nearly tear the page. It sits three pages past my last entry, in a hand that is not mine and is somehow also mine, the way a signature forged with real affection can look more honest than the original. Pell says it's his. He does not know how. Neither do I. I am starting to think the book itself has become a kind of door, and I do not know yet whether that frightens me as much as it should.
+
+13 Kelsor.
+
+Pell went out for thirty-five minutes and came home three days older. I will not pretend to understand the arithmetic. I only know I drew his departure two days before anyone else remembered it happening, and that the drawing was true, and that being right about something this large does not feel like triumph. It feels like being handed a weight I did not ask to carry.
+
+14 Kelsor.
+
+I think I understand it now, or as much of it as a man with a pencil is likely to understand anything built by whoever raised the Loom and then left it here, alone, doing its work long after there was anyone left to read the result. It wants a reader. Not a measurement, not an answer shouted back at it — a reader, patient and honest, the way I have tried to be honest with every coastline and star field I have ever set down. It gave me the true sky in return for looking at it without flinching. I do not think it meant Pell any harm. I think it simply forgot, across however many thousand years of solitude, what a gentle question sounds like.

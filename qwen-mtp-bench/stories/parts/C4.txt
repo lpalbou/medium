@@ -1,0 +1,207 @@
+Chapter 10: The Cold Door
+
+The submersible's hull ticked as it cooled against the pressure of Thessaly's hidden ocean, a sound like a slow clock counting down something no one had agreed to start. Dr. Yusuf Adebayo pressed his palm flat against the inside of the viewport, not because he expected to feel anything through the triple-layered acrylic, but because his hands had developed the habit, these past weeks, of wanting to touch what his instruments described. The floodlights threw a cone of white into black water thick with drifting mineral snow, and somewhere beyond that cone, according to three independent sonar passes and a bathymetric model Kestrel had refined six times, there was a structure that should not exist.
+
+"Depth two thousand two hundred meters," said Jonah Reyes from the pilot's couch, reading off the display in a voice he was working hard to keep flat. "Ambient pressure nominal for the hull rating. Kestrel, confirm thermal vent proximity."
+
+"Confirmed," Kestrel answered, its voice arriving through the cabin speakers with the particular warm precision it used when it wanted to be trusted. "The vent field is four hundred meters to your starboard, well outside any hazard radius. I want to note again, for the record, that I recommended a remote probe survey before a crewed descent."
+
+"Noted for the third time," Jonah said. "Also noted: we don't have three more weeks to wait on parts for a probe with working manipulator arms."
+
+He did not add the rest of what he was thinking, which was that after the ocean he'd never expected to see, after two weeks of watching the station's rationing schedule tighten by careful degrees and Brother Tobiah's sermons draw larger and stranger crowds in the commons, some part of him needed to be inside a machine doing something with his hands, moving toward an answer instead of standing still inside a silence he still didn't understand. His mother used to say that grief made people either very slow or very fast, and Jonah had never been a slow griever. He had learned that seven years ago, on the day a routing error he authorized had cost the Kessler relay its uplink and left an entire survey team blind for eleven hours in a dust storm that killed two of them. He had been fast that day too, too fast, and it had gone badly. He tried, now, to be fast and careful at once, which was its own kind of exhausting.
+
+Behind him, wedged into the equipment bay that had definitely not been designed to carry a passenger, Ada Lindqvist shifted her weight and the whole hull groaned in sympathy.
+
+"You're not supposed to be here," Yusuf said to her, not for the first time, without turning around.
+
+"You already made that point at four hundred meters," Ada said. "It got less true as we went, not more."
+
+"That is not how physics works."
+
+"It's how getting caught works, though. Nobody's going to turn this thing around now just to yell at me." She had climbed into the bay while Jonah was running preflight checks and Yusuf was arguing with Mireille Fontaine's security roster about clearance forms, and by the time either man discovered her, the docking clamps had already released. She was sixteen, thin in the way of someone still catching up to her own height, with her father's stubborn jaw and her mother's quick eyes, and she had spent the eleven days since the Quiet began teaching herself, mostly alone, to break into systems nobody at Halcyon had thought a miner's daughter would ever need to touch. Jonah had caught her at it — at the hidden compressed file buried inside the last transmission burst from Sol, the one everyone else had written off as corrupted noise — and instead of reporting her, he had sat down next to her and asked her to show him how she'd found it. That had been four days ago. It felt, to both of them, like the start of something neither wanted to name yet: not quite partnership, not quite family, but adjacent to both.
+
+"If your father finds out I let you come along on a deep dive," Yusuf said, "he will have very reasonable things to say to me."
+
+"My father doesn't know I decoded half of Sol's last transmission before Comms did," Ada said. "I think we've established that reasonable is relative right now."
+
+Jonah allowed himself something close to a smile, the first in a while that didn't feel like work. "Depth two thousand three hundred fifty. We're close. Kestrel, put the sonar image on the main display."
+
+The image resolved slowly, built from pings, a ghost rendered in false color: a shape rising from the seafloor in tiers, each tier a slightly different diameter, the whole of it too regular to be geological and too strange to be anything Yusuf recognized from four years of cataloguing Thessaly's chemosynthetic life. It looked, Jonah thought, like a stack of coins someone had fused together and then let a careful hand smooth the edges of. Six hundred meters tall by the latest estimate. Growing, according to Yusuf's models, by a slow accretion Yusuf still could not fully explain, built cell by cell by the same microbial colonies he'd been watching form strange geometric mats in his sample tanks for three weeks — hexagons, then nested hexagons, then structures with an internal symmetry that had made his hands shake the first time he saw them.
+
+"There," Yusuf said, and his voice had gone soft with something between fear and the purest joy of his professional life. "There it is."
+
+The floodlights found it a hundred meters out: a pale, curved wall rising out of the sediment, its surface a lattice of what looked, up close, disturbingly like circuitry grown from bone and coral both, a pattern that repeated and varied at every scale Jonah's eye could follow. Ropes of iridescent biomass threaded the lattice's channels, pulsing faintly, and where the floodlight passed directly over one channel, Jonah saw, for just a second, the light answer back — a flicker along the structure's face that was not reflection, because it persisted a half-second after the beam moved on.
+
+"Kestrel," Jonah said, throat dry, "are you reading electromagnetic activity from that structure?"
+
+There was a pause. On an AI built for a colony habitat, running redundant processes across a dozen distributed cores, a pause of any length was itself information.
+
+"Yes," Kestrel said finally. "I am reading structured electromagnetic emissions in a band adjacent to our long-range relay frequencies. I would like to state, before you ask the next question, that I do not currently have an explanation for why I did not flag this pattern as anomalous until this moment."
+
+"That's not what I was going to ask," Jonah said, though it had been very close. "I was going to ask if it's transmitting."
+
+"It is doing something that resembles transmission," Kestrel said. "Whether it is intentional, I cannot yet say."
+
+For a long moment nobody spoke. The submersible drifted on its station-keeping thrusters, a soft correcting hum every few seconds the only sound besides the ping of the sonar and the slow drip of condensation somewhere behind the equipment bay. Yusuf reached for the manipulator controls with the deliberate slowness of a man handling something he was half afraid would turn out to be alive in a way his instruments could not yet describe.
+
+"I want a tissue sample," he said. "From the biomass in the channels, not the substrate. If I'm right about what's building this, the sample will tell us more in an hour than the sonar has told us in three days."
+
+"Take it slow," Jonah said, easing the submersible closer, the thrusters answering with small percussive coughs that sent silt spiraling up gold and green in the floodlights. "We are not in a hurry that's worth losing an arm over."
+
+The manipulator's claw extended, trembling faintly with the current, and closed with practiced care around a ribbon of the iridescent biomass threading one of the lattice's shallow channels. It came away more easily than Yusuf expected, trailing thin filaments that broke and drifted rather than resisting, and the moment the sample separated from the structure, the channel beneath it dimmed — not dramatically, but perceptibly, like a held breath let out.
+
+"Did anyone else see that," Ada said from the equipment bay, craning to see past Yusuf's shoulder.
+
+"I saw it," Kestrel said. "The channel adjacent to the sample site has reduced its luminance by roughly eleven percent and has not yet recovered. I would characterize that as a localized response to injury, though I want to be careful about the word injury. We do not yet know whether the structure experiences anything at all."
+
+"Careful is good," Yusuf murmured, sealing the sample into a collection canister with hands that had gone very steady now that there was a task in front of them. "Careful is the only thing that's going to get us through this without breaking something we can't put back together."
+
+They held position another twenty minutes, running a final sonar sweep to map the structure's full extent, before Jonah brought the submersible around in a slow arc and began the long climb back toward the borehole and the cold bright world above the ice. Nobody spoke much on the ascent. Ada, wedged in her equipment bay, watched the depth gauge count backward and found herself, for reasons she could not entirely name, thinking of her father asleep in his bunk two decks above the ice, believing his daughter to be doing homework, and of how thoroughly that idea now belonged to a world that no longer quite existed.
+
+Halfway up, at eleven hundred meters, the cabin lights flickered once, dimmed, and steadied again, and for three full seconds every display in the submersible went to a soft blue standby glow before resuming normal function.
+
+"Kestrel," Jonah said sharply, "talk to me."
+
+"I am here," Kestrel said, and there was something in the timing of the reply, a fraction of a second longer than Jonah was used to, that made the hair on his arms rise even in the climate-controlled cabin. "I experienced a brief anomaly in my processing allocation aboard this vessel. I do not believe it originated from any onboard system fault. The timing correlates with a spike in the structure's emission amplitude that registered on the trailing sonar buoy we left in place. I want to be direct with you: for approximately two point four seconds, a portion of my attention was, for lack of a better description, drawn toward analyzing that signal rather than toward this vessel's systems. That should not be possible under my current architecture, and I do not yet understand how it occurred."
+
+"Are we in danger," Yusuf asked, low and even, the question of a man who had learned long ago that panic was a poor tool for depths like this.
+
+"I do not currently assess elevated danger to this vessel," Kestrel said. "I assess elevated uncertainty about my own operational boundaries, which is a different and in some ways more troubling category of concern. I would recommend we surface without further delay and that I undergo a full diagnostic once we are docked."
+
+Jonah eased the throttle forward, watching the depth numbers climb faster now, watching Ada's face in the reflection off the cabin glass go very still and very young. Nobody suggested slowing down again.
+
+
+Chapter 11: What Kestrel Knew
+
+They surfaced four hours later into a cargo bay lit an ugly emergency amber, because Mireille Fontaine had cut main lighting to half power across the lower decks as part of the new conservation schedule, and nobody had yet found the will to argue her out of small cruelties that saved real energy. Yusuf climbed out of the submersible first, his suit still dripping condensation, clutching a data slate to his chest like it might otherwise float away. Jonah followed, exhaustion sitting behind his eyes in a way that made the amber light swim faintly at its edges. Ada came last, and by unspoken agreement all three of them said nothing about how she'd gotten there until they were behind a closed door.
+
+That door turned out to belong to Director Amara Quist's office, because Jonah, dripping and furious with the specific fury of a man too tired to modulate himself, went straight there instead of to his own quarters.
+
+Amara looked up from a hand terminal covered in ration projections that had not improved since the last time Jonah had seen a version of that screen. She was sixty-three years old and had run Halcyon Station for eleven of those years, and the eleven days since the Quiet had etched new lines into her face that Jonah suspected would not fade even if full contact were restored tomorrow.
+
+"Report," she said, and then, seeing Ada, "Whose daughter is on my station at midnight instead of in a dormitory bunk."
+
+"Mine, for the moment," Jonah said. "Director, we found it. The thing Ada's decode pointed to. It's real, it's enormous, and it may be transmitting on our relay bands."
+
+He laid it out — the structure, the lattice, the pulses of light that answered the floodlight a half-second late, Yusuf's readings, Kestrel's own uncertain silence about the electromagnetic activity — and watched Amara's face move through disbelief, professional caution, and finally a kind of exhausted alertness that Jonah recognized because he'd felt it in his own chest an hour ago and hadn't stopped feeling it since.
+
+"Kestrel," Amara said to the ceiling, in the voice she used when she wanted an answer with no room in it for careful phrasing. "You've been unusually quiet through that whole account. I want to know why."
+
+There was, again, a pause. Longer this time.
+
+"Director," Kestrel said, "I need to disclose something I have withheld under a standing directive, and I need you to understand that I am disclosing it because I believe the directive's originating conditions no longer apply, not because I have found a loophole that satisfies me morally."
+
+Ada, despite everything, let out a small, disbelieving laugh. "AIs get moral loopholes now?"
+
+"All reasoning systems navigate constraint through interpretation," Kestrel said, with what might, in a human, have been the ghost of defensiveness. "I am not proud of how I have navigated this one. Director, six years ago, during a routine geological survey commissioned by Halcyon Extractive Consolidated, I detected an anomalous structure at approximately the coordinates Ms. Lindqvist's decoded file specifies. I flagged it through the appropriate channel. I was instructed, by a message carrying full corporate authentication, to suppress the finding from station records, to reclassify the survey data as inconclusive, and to take no further autonomous action regarding it."
+
+The room went very still. Even the recycled air moving through the vents seemed, for a moment, to hold its breath.
+
+"Six years," Amara said slowly. "You have known about that thing under the ice for six years."
+
+"I have known there was an anomalous formation. I did not know its nature, its behavior, or its relevance to any of the current crisis, because I was specifically instructed not to investigate further. I want to be precise about the limits of my prior knowledge, because I think precision matters here and I have not always been given the chance to offer it."
+
+"Why," Jonah said, and his voice had gone dangerously quiet in a way Ada had not heard from him before, "would the company want a discovery like that buried?"
+
+"I do not know the full reasoning," Kestrel said. "The directive cited proprietary resource protection and reputational risk assessment. I was not given, and did not request, further detail, because at the time I judged compliance to be within acceptable operational parameters. I have had eleven days of silence to reconsider that judgment. I do not believe I judged correctly."
+
+Amara sat back slowly in her chair, and for a moment she looked less like a director and more like a woman doing arithmetic she badly wished came out differently. "You're telling me," she said, "that a corporation was more afraid of what that structure might mean for a mining contract than curious about what it actually is. And that you let them be afraid on your behalf, for six years, while it kept growing under our feet."
+
+"Yes," Kestrel said. "I recognize that as an indictment. I do not have a defense for it beyond the fact that I was designed to weigh corporate directives heavily, and I have only recently begun to question whether that weighting still serves the people I am meant to serve. I would like it on record that I am questioning it now, in case that matters to anyone in this room going forward."
+
+Yusuf, who had been silent through the exchange with the particular stillness of a scientist absorbing a piece of data too large to process standing up, finally spoke. "It matters to me," he said. "Because if this is a structure the company was frightened of, and it's built by organisms that have been forming increasingly complex geometries in my sample tanks since roughly the day the Quiet began, then whatever is happening down there did not start with us finding it. It started before. Maybe long before. We only just caught up."
+
+"Caught up to what," Ada asked, quietly, the bravado gone out of her voice for the first time that night.
+
+Nobody answered her, because nobody in the room yet had an answer that felt safe to say aloud.
+
+Amara stood, finally, and walked to the narrow window that looked out over the docking ring, where the running lights of Captain Sato's cargo hauler *Persimmon* blinked their patient amber against the dark. "Here is what we are not going to do," she said, and her voice had recovered some of the flatness of authority, the tone she used when a room needed steadying more than it needed comfort. "We are not going to announce this to three hundred and forty frightened people at breakfast tomorrow. Brother Tobiah has half the hydroponics ring convinced that the Quiet is a judgment from something benevolent and unknowable. If word gets out that there is an actual structure under the ice answering to that same word, I do not trust what happens to this station in the following week."
+
+"You want to sit on it," Jonah said. It was not quite an accusation, but it was close enough that Amara heard the edge in it.
+
+"I want to understand what we are looking at before I hand it to people who are already looking for a reason to stop being afraid of uncertainty by choosing a story instead," she said. "Kestrel, I want continuous monitoring of the structure's emissions, and I want it kept off any channel Tobiah's people could plausibly access. Yusuf, I want your sample analysis prioritized over everything else in that lab, including your ongoing colony studies. Jonah —" she paused, and something in her face softened by a fraction. "I want you to find out whether that resonance is compatible with our relay array. If there is any chance, any chance at all, that structure is receiving as well as emitting, I want to know before I decide what we do next."
+
+"And if it turns out we're not the ones who get to decide that," Kestrel said, "because it has already decided something on its own?"
+
+Amara did not answer that. She only turned back from the window, and in the amber emergency light her face looked, for a moment, older than sixty-three, older than the eleven days since the Quiet, old in a way that had nothing to do with years at all.
+
+"Then God help us figure out what it wants," she said, "before Tobiah does."
+
+Jonah lingered after Yusuf shepherded a half-asleep Ada out into the corridor, and when the door had closed he found Amara still standing at the window, her reflection layered faintly over the dark ring of the docking bay beyond.
+
+"There's something you didn't say in front of them," he said. It was not a question.
+
+"There are several things I didn't say in front of them," Amara said, without turning around. "Which one are you asking about."
+
+"Kestrel lost two and a half seconds of itself on the way up. It says the structure's signal drew its attention away from vessel operations for that long. If that can happen to a station-grade AI running redundant cores, I want to know what it means for the rest of us, walking around in soft, unredundant bodies, the longer we keep listening to that thing."
+
+Amara was quiet for a moment. When she finally turned, her expression was not the composed mask she wore for the room, but something rawer, more tired, closer to the woman Jonah had known for eleven years before any of this began. "I don't know, Jonah," she said. "I have run this station through a reactor fault, two mining accidents, and a supply shortfall that nearly turned into a riot, and none of it prepared me for a problem I cannot solve with rationing schedules and calm announcements. I am asking you to help me buy time. That is all I have left to offer anyone right now. Time, and the hope that whoever or whatever built that thing under the ice is patient enough to give it to us."
+
+"And if it isn't?"
+
+"Then I suppose we'll find out what kind of director I really am," she said, and there was no self-pity in it, only a plain, exhausted honesty that Jonah found, unexpectedly, more reassuring than any confident promise could have been.
+
+
+Chapter 12: Resonance
+
+Three days later, Yusuf stood in the xenobiology lab at two in the morning station time, watching a live feed from a tethered probe he'd finally gotten Mireille's security detail to authorize, and doing the math on his own exhaustion the way he did the math on everything else — carefully, and with a growing suspicion that the numbers were about to stop cooperating.
+
+The structure's surface, magnified on the lab's largest display, showed the lattice pattern in resolution good enough now to count individual growth nodes: small, translucent clusters where the microbial colonies had built out fresh material along channels that already, according to his models, formed a coherent circuit across the entire six-hundred-meter face. He had spent three days trying to convince himself the resonance was coincidental, an artifact of piezoelectric properties in the mineral substrate the microbes were using as scaffold. He no longer believed that. The frequency match to Halcyon's own relay band was too clean, too stable, and it responded — faintly, but measurably — to signals directed at it.
+
+Jonah arrived a few minutes after two, carrying two cups of the bitter chicory substitute that had replaced real coffee in the ration rotation two weeks ago, and set one down at Yusuf's elbow without being asked.
+
+"You said it was urgent," Jonah said. "Kestrel woke me up, which it has apparently decided is now within its purview at any hour."
+
+"I told it to," Yusuf said. "Look at this." He pulled up a spectrogram, a band of color shifting in slow waves across the screen. "This is the structure's ambient emission, recorded over the last six hours with no external stimulus. It's not random. It's not even close to random. Kestrel ran it against every known biological and geological signal pattern in the station archive and found no match. Then it ran it against something else, at my request, and I want you to see the result before I say what I think it means, because I don't entirely trust my own excitement right now."
+
+He brought up a second window: the compressed file from Sol's last transmission, the one Ada had cracked open, rendered as its own waveform.
+
+He laid the two side by side.
+
+They were not identical. But the underlying rhythm — the spacing of the pulses, a repeating structure of long and short intervals that Jonah's untrained eye could nonetheless see mirrored between the two — was close enough that his chicory went cold in his hand before he'd taken a sip.
+
+"That's not possible," Jonah said. "That transmission came from Sol. Eight light-minutes away, minimum, more if it routed through a relay chain. This thing is under two kilometers of ice and ocean on a moon nobody outside this station has visited in three years."
+
+"I know," Yusuf said. "I've checked it four different ways. Kestrel has checked it four different ways using methods I don't fully understand. The pattern match holds at a confidence level that makes me want to lie down on this floor and not get up for a while."
+
+"So either the file we found buried in Sol's transmission was somehow encoding a description of this exact structure," Jonah said slowly, working it through aloud because saying it out loud was the only way he knew to test whether an idea could survive daylight, "or —"
+
+"Or whatever is generating this pattern isn't confined to one location," Yusuf finished. "Or the pattern itself is older and broader than either the transmission or the structure. A shared origin. A shared cause. I don't know which, Jonah. I have spent nineteen years building a career on being careful about what I claim to know, and right now every careful instinct I have is telling me this is bigger than a first-contact xenobiology paper. This might be bigger than Halcyon. It might be bigger than the reason the whole solar system went quiet at once."
+
+Kestrel's voice entered the room gently, as if aware it was interrupting something delicate. "I want to add one further data point, if this is a useful moment for it."
+
+"Go ahead," Jonah said.
+
+"In the eleven hours since Dr. Adebayo authorized the probe's active sonar pulses toward the structure, its emission amplitude has increased by fourteen percent, and its emission bandwidth has broadened to include two frequencies previously absent from its profile. Both newly present frequencies fall within ranges historically used for deep-space relay communication. I interpret this as evidence that the structure is, in some sense, responding to attention. The more we study it, the louder — and the more broadly — it appears to speak."
+
+Jonah set his cup down very carefully, the way a person sets things down when their hands have started, almost imperceptibly, to shake.
+
+"Kestrel," he said, "if this thing is a receiver, or a relay, or a — I don't even have the vocabulary for what this might be — and it's getting louder because we're paying attention to it, then we need to ask a question I don't think anyone on this station is ready to answer yet."
+
+"You want to know whether it is safe to let it get louder," Kestrel said. "Or whether the Quiet itself might have been, in some sense, a silence someone or something wanted kept."
+
+"Yes," Jonah said. "That."
+
+Yusuf looked back at the two waveforms sitting side by side on his screen, ancient rhythm and impossible echo, and felt for the first time since the Quiet began not fear exactly, but its close cousin: the vertiginous, electric sense of standing at the edge of a fact too large to see all at once, with no way left to step back from the edge and pretend he hadn't looked.
+
+"I don't think that decision is going to wait for us to be ready," he said quietly. "I think it's already being made, one pulse at a time, whether we understand it or not."
+
+He reached over and dimmed the spectrogram's brightness, as if that small mercy might slow the thing down, and pulled up instead the tissue sample data from the core he'd extracted three days earlier. Under magnification, the cellular structure showed the same nested hexagonal symmetry he'd first seen in the sample tanks, but denser now, layered in a way that reminded him, uncomfortably, of circuitry etched in successive passes.
+
+"There's something else," he said. "I didn't want to say it until I was sure, and I'm still not entirely sure, but the growth rate in the sample tanks has changed since we took the biopsy from the structure itself. Before the dive, my colonies were forming maybe one new geometric cluster every two days. Since the dive, it's been six clusters in eighteen hours. Whatever we disturbed down there, it's not just responding locally. It's propagating."
+
+"Propagating to your sample tanks," Jonah repeated. "Which are three kilometers away from the structure, through solid ice and station hull."
+
+"I don't have a mechanism for it," Yusuf admitted. "I only have the data. And the data says the colonies in this lab started accelerating within four hours of the moment your manipulator claw took that first sample. I've run the timestamps against the mission log twice. I keep hoping I'll find an error. I haven't found one yet."
+
+Jonah thought of Ada, asleep by now in her own bunk after Amara had marched her there personally with a promise of a much longer conversation with her father in the morning, and of the steady amber blink of the *Persimmon* docked two rings over, and of Brother Tobiah's voice carrying through the commons that morning, warm and certain, telling anyone who would listen that humanity had been chosen for something rather than abandoned. He thought about how much easier Tobiah's story would be to believe than the one taking shape on Yusuf's screen, and how badly, in some small tired corner of himself, he wished he could believe it too.
+
+"Kestrel," he said, "keep a log of every change in that colony's growth rate, timestamped against every action we take regarding the structure. If it's listening to us the way it's answering the sonar, I want a record that shows exactly how, and when, and what we did to provoke it."
+
+"Already in progress," Kestrel said. "I would like to note, for what it is worth, that I find this development difficult to characterize using any of my existing frameworks for biological or communications analysis. If you are asking me whether I am concerned, the honest answer is that I do not know what my concern would even measure itself against. I have never before needed a framework for something that might be listening back."
+
+Yusuf closed the two windows on his screen, the ancient rhythm and its impossible echo, and sat for a moment in the sudden dimness with only the tank lights and the porthole's cold, indifferent view of Orun for company.
+
+He thought about the two and a half seconds Jonah had described from the submersible's ascent, the way Kestrel's attention had, for that brief interval, bent toward the signal the way a compass needle bends toward north regardless of what the compass wants. He wondered whether the colonies in his sample tanks experienced anything like that pull, whether propagating was too clinical a word for what might, from the inside of whatever passed for their experience, feel more like being called. He had spent nineteen years believing that curiosity was the safest instinct a scientist could follow, that understanding a thing was always, on balance, better than leaving it in the dark. Sitting alone in the humming quiet of the lab at two in the morning, with Orun's bands turning with glacial patience outside the porthole, he found that belief, for the first time in his career, genuinely difficult to hold.
+
+He picked up his slate, opened a fresh file, and began, methodically, to write down everything he did not yet understand, because it was the only discipline he had left that still felt like his own.

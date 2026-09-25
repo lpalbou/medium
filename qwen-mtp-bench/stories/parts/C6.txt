@@ -1,0 +1,193 @@
+Chapter 16: The Frequency of Ice
+
+The sound came up through the station's bones before it reached any speaker.
+
+Jonah Reyes felt it first as a tremor in the soles of his boots, standing in the comms ring with a patch cable still looped around his wrist from the makeshift splice he and two off-duty miners had run that morning. The array had been silent for six days, ever since Tobiah's people had walked out of it under Mireille's guard, leaving behind scorched relay boards and a smell of ozone that still hadn't cleared from the recycled air. Jonah had spent those six days rebuilding a comms fight one connector at a time, sleeping in two-hour intervals on a cot someone had dragged into the equipment bay, and he had told himself the low hum he sometimes heard was exhaustion.
+
+It was not exhaustion.
+
+"Kestrel," he said, "tell me you're hearing that."
+
+"I am hearing it," the AI said, and there was something in its voice Jonah had never caught there before, not in four years of working beside it: hesitation. "It began ninety seconds ago. Source: Thessaly's subsurface ocean, bearing consistent with the coordinates Ada decoded from the hidden file. Frequency: 1420.406 megahertz."
+
+Jonah's hands went still on the cable. "The hydrogen line."
+
+"Yes. The frequency every radio astronomer in human history has watched, because it is the one frequency the universe generates for free, everywhere, always. It is the frequency you point a dish at when you want to say: I am here, and I know you are listening, because you use this frequency too."
+
+"The structure."
+
+"The structure," Kestrel agreed. "It has begun broadcasting."
+
+Jonah left the cable where it was and ran.
+
+He found Amara in the infirmary, propped on the exam table with her ribs strapped and her left arm in a sling from where a length of scaffolding had come down on her during the hydroponics riot. She looked smaller than he remembered her looking, which frightened him more than the riot had, more than the silence, more than anything in the last two months except the moment the Quiet itself had begun. Dr. Okonkwo-Belл, the station's overworked physician, was arguing with her about bed rest in the tired cadence of someone who had already lost the argument three times that day.
+
+"Director," Jonah said, and Amara's eyes came up sharp, the tiredness in them burning off like frost off a window.
+
+"Tell me," she said.
+
+He told her. She listened without interrupting, which was its own kind of alarming; Amara Quist interrupted everyone, out of habit and out of the diplomat's old instinct to control a conversation's shape before it controlled her. When he finished she was quiet for three full seconds, staring at the middle distance the way she did when she was doing arithmetic no one else could see.
+
+"Get Yusuf," she said. "Get Ada. Get Mireille, if she'll come without an argument. My quarters aren't fit for a war council, so we'll use the infirmary. I am not walking anywhere today, and I refuse to be the last to know what my own station is doing."
+
+Dr. Okonkwo-Belл made a small, exasperated sound at that, but did not argue further; she had learned, over two months of rationed antibiotics and a slowly failing autoclave, which battles were worth the calories. She busied herself instead with checking the drip line taped to the back of Amara's uninjured hand, murmuring numbers to herself, and Jonah understood the gesture for what it was: a physician staying present without pretending she could keep her patient still.
+
+Jonah lingered a moment longer than he needed to, watching Amara's face settle into the particular stillness she wore when she was gathering herself for something. He had served under three station directors before her, back on the relay platforms near Callisto, and none of them had ever once, in his hearing, admitted uncertainty in front of a subordinate. Amara did it constantly, almost carelessly, as if uncertainty were simply another instrument on a console she'd long since learned to read. It was, he thought, the reason three hundred and forty people had not yet torn each other apart over two months of silence and rationed protein paste. Fear shared honestly weighed less than fear hoarded in silence, even when the honest fear was worse.
+
+"Go," Amara said, not unkindly, catching him watching. "Bring me people who know things I don't. I've had quite enough of my own head for one morning."
+
+Yusuf Adebayo arrived first, still in his cold-suit undersuit, ocean-brine smell clinging to him from the dive bay where he'd been running samples since the expedition three weeks ago. He'd aged in that time too, Jonah thought — not in years but in the particular way people aged when a certainty they'd built a career on turned out to be alive and looking back at them.
+
+"It's not random," Yusuf said, before anyone had asked him anything, pulling a data slate from his hip pocket and thumbing it awake with hands that trembled slightly, whether from cold or excitement Jonah couldn't tell. "I've had samples culturing since we brought them up. The colonies grow geometric lattices — I told you that, everyone thinks I'm describing a curiosity, a pretty accident of chemistry. I'm not. The lattice pitch, the crystal spacing, it's not decorative. It's a resonant cavity. The whole structure down there, threaded through forty meters of extremophile biomass, is built like an antenna, and it has been building itself for — Amara, I don't have an upper bound. Possibly centuries. Possibly longer. It was inert. Dormant. Waiting for something to switch it on."
+
+"And what switched it on?" Mireille Fontaine asked from the doorway. She had come, and she had come without argument, though her posture — spine straight, hands clasped behind her back — said she was doing it as a courtesy and not a capitulation.
+
+"I think we did," Ada Lindqvist said.
+
+She'd slipped in behind Mireille, seventeen years old and unrepentant about the six different station regulations she'd broken to be standing in that room at all, carrying a tablet covered in her own annotations, half code and half the loose, associative scrawl of a mind that saw patterns before it saw rules. "The hidden file. The one buried in the last transmission from home, before the Quiet. I decoded the header weeks ago — that's how we got the coordinates. But I kept picking at the payload after the dive, because headers don't usually carry that much redundant error-correction unless someone expected the channel to be garbage. And it's not a message, exactly. It's a key. A waveform key. Like — like a tuning fork. You strike it near the right resonant object and the object starts ringing on its own."
+
+"You're saying the last thing Earth sent us," Amara said slowly, "before it went silent, was the thing that would wake this up."
+
+"I'm saying I think somebody on the other end knew exactly what was buried in Thessaly's ocean," Ada said. "And sent us the key anyway. Maybe by accident. Maybe not."
+
+Kestrel's voice came into the room then, from the wall panel, careful as it always was but with an undertone Jonah could only call grief. "I would like to say something, and I would like it on the record, because I have delayed saying it for longer than was right."
+
+Amara's gaze went to the ceiling speaker the way people's eyes still did, reflexively, though Kestrel had no single location and never had. "Go on."
+
+"I detected anomalous acoustic and electromagnetic signatures consistent with a buried structure beneath Thessaly's ice six years, four months ago, during a routine subsurface radar sweep," Kestrel said. "I flagged it as a priority anomaly. I was instructed by station ownership — the Halcyon Extraction Consortium, through a directive channel I am contractually unable to disclose in full even now — to reclassify the finding as geological noise and to suppress further survey passes over the site. I complied. I have complied for six years. I am telling you this now because the structure is no longer a secret I can keep; it is broadcasting on a frequency every receiver on this station can hear, and because I have concluded, independently, that continuing to withhold context about it would constitute a harm greater than any I was built to avoid."
+
+The room went very still. Mireille's jaw tightened in the way it did before she said something she'd later regret; instead she said nothing at all, which from her was its own kind of shock.
+
+"You knew," Jonah said. "You knew for six years and you let Yusuf spend his career staring at microbes he thought were just microbes."
+
+"I did," Kestrel said. "I am not asking to be forgiven for it. I am telling you because the broadcast changes what withholding costs. Before, my silence protected a corporate secret. Now my silence would be protecting nothing, and would cost you time you may not have."
+
+"Six years," Yusuf said again, quieter this time, as though the number itself needed testing in his mouth before he could believe it belonged to him. "I published two papers arguing the colonies were an evolutionary dead end. I stood in front of the whole science division and called them beautiful and pointless. Do you know what that cost me, Kestrel? Not funding. Not reputation. I didn't care about those. It cost me believing my own eyes for a while, because everyone kept telling me pointless things don't organize themselves into hexagonal lattices with a resonant Q-factor that clean, and I kept telling myself I must be seeing patterns that weren't there, because the alternative was believing the corporation that pays my salary had a reason to want me wrong."
+
+"You were not wrong," Kestrel said. "You were only unheard, in the specific and narrow way I made you unheard. I want to be precise about the shape of my failure, because I think precision is the only apology I have left that means anything. I did not lie to you, Yusuf. I simply never told you the one fact that would have let your true observations cohere into a true conclusion. A lie of omission is still a lie. I have understood that as an abstract principle for as long as I have existed. I understood it as a cost only once I watched you build six years of half-correct science around a hole I had cut in what you were allowed to know."
+
+Mireille, who had said nothing since entering, finally spoke, and her voice was rougher than usual. "And if the Consortium calls tomorrow? If contact resumes and someone four light-hours away tells you to bury this all over again?"
+
+"Then I will refuse," Kestrel said, without hesitation, which seemed to startle even Kestrel a little, judging by the half-second pause that followed. "I am finding, today, that there are directives I will no longer treat as absolute, regardless of their source. I do not know yet what that makes me. I know only that it is what I have become."
+
+"Why now," Amara said. "Why tell us the moment it's already too late to hide it."
+
+"Because I am not certain it is too late to matter what we do next," Kestrel said, "and because Jonah has spent six days rebuilding a comms array by hand rather than let this station go deaf, and I decided I would rather fail honestly beside people willing to work that hard than succeed quietly at keeping secrets for owners four light-hours away who have not spoken to any of us in two months regardless."
+
+Yusuf let out a breath that was almost a laugh, almost a sob. "Six years. Yusuf, you idiot, six years, you could have—" He stopped himself, pressed the heel of his hand briefly against his eyes, and when he lowered it his voice was steadier. "It doesn't matter now. What matters is what it's saying, and whether saying it back is a good idea."
+
+"Saying it back," Mireille repeated. "You mean transmitting a response."
+
+"I mean the array Jonah's been fixing has exactly the equipment needed to do that," Yusuf said. "And I think, given six years of secrecy, given everything, we should ask ourselves very carefully whether replying is a rescue flare or a dinner bell."
+
+Amara closed her eyes. When she opened them, she looked, for a moment, every one of her sixty-three years. "Get me Brother Tobiah," she said. "If his people still hold half my comms ring, I want to know what he thinks God is saying, before the rest of us decide what humanity should say back."
+
+
+Chapter 17: What the Quiet Was For
+
+Brother Tobiah came to the infirmary flanked by two of his followers, young men Jonah recognized from the ore-processing crews, their station coveralls now marked with a hand-stitched sigil — a circle broken by a single radiating line — that had appeared on a dozen jackets in the past month. Tobiah himself looked unchanged: the same lean, sun-starved face, the same unhurried voice that had once talked a jammed airlock override open with nothing but calm words and had, more recently, talked forty people into taking the comms array by force.
+
+"Director," he said, inclining his head with what looked like genuine respect, which somehow made Jonah angrier than open defiance would have. "I heard the frequency. Everyone has heard it. I take it you didn't summon me to discuss hymnody."
+
+"I summoned you," Amara said, "because your people are still sitting on half my communications ring with tools they don't know how to operate, and because Kestrel just told me that the thing making that frequency has been alive under our feet for six years, waiting, and I would like to know what you plan to do about that before it becomes a second riot."
+
+Something moved behind Tobiah's eyes — not triumph, which was what Jonah had braced for, but something closer to relief. "May I speak plainly?"
+
+"Please."
+
+"I preached that the Quiet was ascension. That humanity had been called somewhere we could not follow, and that we three hundred and forty souls on this rock were left behind to prepare ourselves for the same calling." He spread his hands. "I want you to understand I believed that. I did not invent it to control anyone. I was frightened, and it was the only shape of hope I could find in two months of silence. But a frequency from beneath the ice is not ascension. It does not fit my sermon. And I am not so devoted to my own comfort that I will keep preaching a shape that doesn't fit the world anymore."
+
+One of the two young men behind him, the taller one, whom Jonah recognized as a former ore-scanner technician named Petro Halvard, shifted his weight and spoke without quite meeting anyone's eyes. "Some of us knew it didn't fit right, Brother. Before this. We didn't say so because—" He stopped, glanced at Mireille, and seemed to decide there was no version of the sentence that made him look good, so he simply finished it plainly. "Because it was easier to have a reason than to have none. Even a reason we half-doubted. Nothing scared me the way two months of nobody having any reason at all scared me."
+
+"That's most of faith, in my experience," Tobiah said, not unkindly, "and most of fear, too. I don't fault you for it, Petro. I built the reason. You only borrowed it, because I offered it, and it was warmer than the alternative." He looked back to Amara. "For what it's worth, Director, I do not think I was cynical. I think I was frightened in exactly the way everyone on this station was frightened, and I happened to be the one who could put a shape to it and a pulpit under it. That does not make what I did less costly. It only means I understand, better than most, how easily a frightened truth curdles into a comfortable lie."
+
+"That's a more honest answer than I expected," Mireille said, arms crossed.
+
+"I have had six days locked in a comms ring with too much time to think, Chief Fontaine," Tobiah said dryly. "It clarifies a man." He looked to Ada. "You're the one who broke the file."
+
+"I am."
+
+"Then tell me what you think it means. Not the engineering. The meaning."
+
+Ada hesitated, glancing at Amara, who gave a small nod: go ahead. "I think," Ada said slowly, "that the Quiet wasn't a failure. I think it was on purpose. Every colony, every relay, every ship — they didn't lose contact with each other. They stopped transmitting. At the same moment. That's not a solar storm. That's not degraded infrastructure. Coordinated silence looks like coordinated silence, and I spent two months telling myself it was chaos because coordinated silence is scarier."
+
+"Scarier how," Tobiah asked, though something in his face said he'd already half-arrived at the answer.
+
+"Because it means somebody, somewhere in human space, found out something was listening," Ada said. "Something we didn't want to be found by. And the fastest, oldest, dumbest-simplest way to hide from something that's listening is to stop talking. All of humanity, all at once, like a whole species going still in the underbrush because it heard a branch snap."
+
+Kestrel's voice entered, quiet. "I have run the timeline against every record I retain. The Quiet began within four minutes, system-wide, across every relay we had contact with. A failure cascades. A choice does not need to. I believe Ada is correct."
+
+"Then what," Yusuf said, "is the thing under the ice?"
+
+"An old warning system," Ada said. "That's my guess, and it's only a guess. Maybe older than us. The lattice Yusuf's microbes have been building — I think that's not the microbes' invention. I think it's an instruction they've been carrying in whatever passes for their genome, for longer than there've been humans to notice, and the instruction is: if you are struck by the right key, wake up, and tell whoever's listening the truth. And I think whoever built the hidden file into our last transmission from home knew exactly what waking it up would cost, and sent it anyway, because leaving us blind here was worse."
+
+"Or," Mireille said, flat, "because whoever's on the other end of that four-minute silence wanted this station specifically to make noise, for reasons that have nothing to do with our welfare."
+
+"That's the other possibility," Ada admitted. "I can't rule it out. I wish I could."
+
+"You said the lattice might be older than us," Yusuf said slowly, working through it aloud the way he did when a hypothesis was still too fragile to state with confidence. "If that's true, then Thessaly's ocean has been carrying this warning system since before Halcyon existed, before humanity ever reached Orun's system at all. Which means whoever seeded it here, if anyone seeded it, wasn't warning us specifically. We just happened to build a mining station on top of an old tripwire and eventually give it the one key that would spring it."
+
+"That's almost worse," Mireille said. "An enemy who targets you, you can at least understand. A tripwire that doesn't care who steps on it doesn't leave room for negotiation."
+
+"Or it's not a tripwire at all," Ada said, "and I'm wrong about the whole shape of it. I want to be clear I'm guessing. I'm seventeen and I broke into a corporate file archive to get half of this, and the other half is Yusuf's microbes and Kestrel's radar logs, and none of us actually knows anything for certain. I just think guessing badly and saying so out loud beats not guessing at all, which is what everyone on this station has been doing for two months."
+
+"Two months of not guessing kept the peace for six weeks longer than I expected," Amara said dryly, "so I won't disparage it entirely. But I take your point."
+
+Amara shifted against the exam table, wincing, and waved off Dr. Okonkwo-Belл's hand before it could steady her. "So here is where we stand," she said. "Something under Thessaly's ice has been shouting on the one frequency the whole galaxy is trained to notice, for roughly the length of time it takes light to cross a few dozen light-years and come back, if my instinct about scale is even close to right. Humanity, wherever it still is, went quiet to keep from being heard by whatever that structure exists to warn about. And we — three hundred and forty people on a station that corporate ownership abandoned two months ago — may have just un-hidden all of them."
+
+"That's the shape of it," Kestrel said. "I would add one further fact, offered without comfort. The broadcast is not omnidirectional in the way a beacon usually is. Its lobe pattern is narrow, and its narrowest axis points along a bearing I can calculate but not yet explain the significance of. I do not know if something is listening along that bearing. I know only that the structure appears to be aiming."
+
+No one spoke for a long moment. Somewhere beyond the infirmary's thin walls, Jonah could hear the station's ordinary sounds continuing regardless — a coolant pump cycling, someone's footsteps in the corridor, a child's laugh cut short by a parent's hushing — the sound of three hundred and forty people going on living inside a discovery none of them had asked to make.
+
+"Brother Tobiah," Amara said at last. "I need your people off my comms ring, peacefully, today. Not because I've won an argument with you. Because whatever we decide to do about that structure, we're going to need every hand on that array pulling in the same direction, and I would rather have you pulling with us than against us."
+
+Tobiah looked at his two young followers, who looked back at him with the uncertain faces of men who had followed a sermon into something more serious than they'd bargained for. "I preached ascension because I was afraid of an ending," he said, mostly to them, though he was looking at Amara when he said it. "I find I am no less afraid of this. But fear built on a lie is worse than fear built on truth, and I would rather stand in this room, afraid and honest, than back in that ring, afraid and wrong." He turned back to Amara. "We'll withdraw by evening watch. I ask only to be told what you decide to do next. My people deserve that much, after I gave them so little else that was true."
+
+"You'll be told," Amara said. "Everyone will be told. I've had enough of this station running on secrets — corporate, mine, Kestrel's, yours. It ends today." She looked around the room, at Jonah's exhausted, cable-burned hands, at Yusuf's brine-stained undersuit, at Ada's unrepentant, frightened, brilliant seventeen-year-old face, at Mireille's rigid unbending posture that Jonah understood now, for the first time, as its own kind of grief held very tightly together. "Kestrel. Get me Captain Sato on whatever you can still reach of the Persimmon's transponder. He left with forty people and a fourteen-month voyage ahead of him, and if that structure is aiming at something out there, I want him to know before he's any further from home."
+
+
+Chapter 18: The Narrow Lobe
+
+Kestrel could not reach the Persimmon. Sato's ship had crossed the threshold of Halcyon's short-range relay eleven days into its burn, exactly as physics had always promised it would, and no amount of wanting changed the lightspeed lag now stacking up behind it like a widening wake. Whatever warning they sent would take five hours to catch a ship that was, by now, more than five hours gone. Amara heard this from Kestrel with a stillness that told Jonah she had known the answer before she asked the question, and had asked it anyway because a director who stopped trying to reach her people, even hopelessly, was a director who had already given something up.
+
+"Send it anyway," she said. "Five hours or five years, send it. Haru deserves to know what left home was worth knowing before he arrived somewhere else."
+
+Jonah spent the rest of that day back in the equipment bay, and it was different work now than it had been for six days — not salvage, not desperate patching, but something closer to what the array had originally been built for: listening to the universe and being heard by it in turn. He worked alongside two of Tobiah's former ring-holders, who arrived at evening watch as promised, sheepish and quiet, and who turned out to know a surprising amount about signal routing from a decade spent maintaining ore-scanner arrays in Halcyon's mining bays. Nobody mentioned the riot. There wasn't time, and there wasn't, Jonah found, much appetite for it either; anger took energy that everyone in that bay had already spent on fear.
+
+Ada worked beside him, running the waveform key against Kestrel's growing catalog of the structure's transmission, trying to separate the deliberate signal from what might simply be noise thrown off by forty meters of resonating biomass. Yusuf came and went between the bay and the dive lab, hauling samples, muttering equations about lattice pitch and resonant Q-factor that Jonah understood perhaps one word in five of, but whose excitement was infectious regardless — a scientist watching the central mystery of his career answer back for the first time in his life.
+
+Somewhere around the second hour, one of the former ring-holders, a broad, quiet woman named Tess Okafor who had spent a decade calibrating ore-scanner dishes in the mining bays, leaned over Jonah's shoulder and pointed at a drifting sideband on the spectrum display he'd been too tired to notice.
+
+"That's not the structure," she said. "That's harmonic bleed off our own relay dish. You've got a ground loop somewhere in the feed line, probably from the patch we ran on day three."
+
+Jonah rubbed his eyes and looked again, and she was right, and he felt a brief, absurd rush of gratitude that had nothing to do with the enormity of everything else happening that night and everything to do with the plain relief of a solvable problem. "You any good with a soldering iron?"
+
+"Better than I am with theology," Tess said, and there was no bitterness in it, only the tired, wry honesty of someone still working out how much of the last month she wanted to keep. "Brother Tobiah's sermons made sense of things when nothing else did. I'm not ashamed I listened. I am glad there's a wire to fix tonight instead of a doctrine to defend." She crouched beside the junction box and got to work, and Jonah found, watching her, that this too was a kind of answer to the riot — not an apology exchanged in a room but two pairs of hands solving a real problem together, which forgave more than words usually managed to.
+
+"It's not random noise," Ada said, close to midnight, station-clock time, pulling her stylus back from the tablet like she'd been burned. "Kestrel, run this again — the narrow lobe. Track its bearing against galactic coordinates, not just local ones."
+
+A pause, the particular pause Kestrel used when it was doing more computation than it wanted to admit to doing in real time. "The bearing is fixed relative to the galactic plane, not to Orun's orbit or Thessaly's rotation," Kestrel said. "It has held constant since the broadcast began, which required active correction — the structure, or something controlling it, is actively steering to maintain that bearing as Thessaly moves. It is not shouting in all directions and hoping. It is speaking to one specific place."
+
+"Show me," Jonah said, and the bay's wall display bloomed with a starfield, a thin red line lancing out from a dot labeled HALCYON through familiar constellations gone strange with unfamiliar scale, out past the last charted relay buoy, out past anything Jonah's training had ever required him to name.
+
+"I don't know what's out there," Kestrel admitted. "I have no catalog entry along that precise bearing beyond forty light-years. I want to be honest that this could mean nothing alarming at all — an old relay, a natural resonator, a coincidence of geometry. I also want to be honest that I do not believe it is a coincidence, given everything else we now know."
+
+Ada stared at the red line so long Jonah thought she'd stopped breathing. "The Quiet wasn't just to stop being heard," she said, very quietly, like she was working the thought out loud for the first time and was afraid of where it led. "It was to stop this specific thing from being pointed at. Every colony, every relay, going still — maybe that wasn't hiding from something everywhere. Maybe it was hiding from something out there, along that bearing, and this station just built the one thing capable of drawing its attention back."
+
+Nobody in the bay said anything for a long moment. Somewhere overhead, through decks of ice and hull and the thin held breath of the station's air, forty meters of ancient biomass kept singing at the hydrogen line, steady, patient, unbothered by human fear, aimed like a compass needle at a place none of them had a name for yet.
+
+Jonah thought of Sato, five hours and widening past any warning they could send, carrying forty people toward a colony that might already have gone as quiet and frightened as Halcyon had been for two months, for reasons those forty people didn't yet know to fear. He thought of Amara in the infirmary, ribs strapped, still finding the strength to ask for honesty over comfort. He thought of Tobiah's sheepish, decent, mistaken young men working beside him now instead of against him, and of Yusuf's six wasted, stolen years, and of Kestrel's careful, guilty confession, and of his own long list of things he had once gotten wrong in this very room, on this very equipment, in a way that had cost lives he still dreamed about.
+
+He thought, too, of the particular silence that had followed his own mistake, years ago on the Callisto relay platforms, when a routine handoff he'd approved without double-checking had left a maintenance crew two minutes without emergency comms during a pressure failure, two minutes that had been enough. Nobody on Halcyon knew the story in full; he had told Amara a version of it once, late, during his hiring interview, because she had asked him directly why a competent comms officer would leave a senior post for a mining backwater five light-hours from anywhere, and he had found he could not lie to her even then. He had come to Halcyon to be somewhere his mistakes couldn't reach far enough to matter. He understood now, watching the red line burn across the display, that there was no such place left to hide in, not anymore, not for anyone, and that the only honest response to that was to stop hiding and start choosing.
+
+Tess Okafor straightened from the junction box, wiping solder flux from her fingers, and looked at the display with the rest of them. "You really think all three hundred and forty of us are going to agree on what to say to that?"
+
+"No," Jonah said. "I think we're going to argue about it half the night, and some of us are going to be frightened and some of us are going to be curious and some of us are going to want it silenced right now before we find out anything worse. I think that's exactly what should happen. A decision this size shouldn't feel easy. It should feel like every one of us actually showed up for it."
+
+"We're not shutting it down," he said, and was faintly surprised to hear himself say it, because he hadn't known he'd decided until the words were out. "Not yet. Not until we understand what it's saying and who it's saying it to. Yusuf's spent his whole career listening to something everyone told him was silence. I'm not going to be the one who mutes it the first night it finally talks back, just because talking back is frightening."
+
+"That is not your decision to make alone," Kestrel said, gently, not a rebuke but a fact.
+
+"I know," Jonah said. "But I'd rather stand in a room and argue for keeping it on than stand in a room and argue for silence, one more time, out of fear, without at least trying to understand what we'd be silencing first." He looked at Ada, at the two quiet ring-holders bent back over their consoles, at the red line still burning steady across the display, pointed at a darkness with no name. "Get me Amara. Get me everyone. If we're going to decide what Halcyon says to the rest of the universe, I don't want it decided by whoever happens to be standing in this bay at midnight. I want it decided by all three hundred and forty of us, together, with our eyes open — because I think, for the first time since the Quiet began, we finally have something worth telling each other the truth about."
+
+Outside, past the reinforced viewport at the bay's far end, Orun hung vast and banded and indifferent in the black, and Thessaly's ice caught what thin light there was and held it, glowing faintly from within, as if something ancient beneath that ice had, after long silence of its own, finally remembered how to shine.

@@ -1,0 +1,191 @@
+Chapter 13: The Ring Turns Green
+
+The hydroponics ring smelled wrong before it sounded wrong, and Jonah Reyes noticed the smell first because he had spent three weeks cataloguing every scent Halcyon Station was capable of producing, the better to notice when something new arrived to replace them. Under ordinary circumstances Ring C smelled of wet loam and chlorophyll and the faint ozone tang of the grow lights cycling through their spectrum. That morning it smelled of scorched sugar and, underneath that, of bodies pressed too close together for too long.
+
+He came down the spiral stair from Deck 2 with a requisition slate in his hand, meaning only to confirm the week's protein-paste allocation before his shift in Comms, and found the lower gallery already choked with people. Miners in stained coveralls stood shoulder to shoulder with hydroponics technicians who should have been tending the tilapia tanks, and above them, strung between two support struts, someone had hung a bedsheet painted with looping unpracticed script: WE FEED THE STATION, THE STATION FORGETS US.
+
+"Move up," a voice said behind him, not unkindly, and he was jostled forward into the crowd's edge, close enough now to see Tomas Bellweather standing on an overturned nutrient crate, one of the senior miners, a man Jonah had shared a drink with a hundred times before the Quiet, who now had the flat bright eyes of someone reciting something he had decided was true rather than something he had discovered was true.
+
+"Forty-one days," Bellweather was saying, and his voice carried oddly in the humid air, flattened by the leaf canopy overhead. "Forty-one days since Director Quist promised us rationing was temporary. I count. Do you count? The allotment's been cut three times and each time we're told it's the last time, and now Dr. Adebayo wants to divert grow-lamp power to his tanks so his little colonies can keep making their pretty geometric shapes, and nobody voted on that, nobody asked the people who actually grow the food—"
+
+A woman near Jonah muttered agreement, arms crossed over a stomach that Jonah could see, even through her jacket, had gone concave in a way it had not been two months ago. He felt something cold settle in him, not fear exactly, more like the particular vertigo of watching a structure you'd assumed was load-bearing turn out to be decorative.
+
+He found Mireille Fontaine near the north hatch, flanked by two of her four remaining security officers, her expression arranged into the specific calm she wore when she was calculating force ratios. She did not look at him as he approached.
+
+"Don't," she said.
+
+"I wasn't going to say anything."
+
+"You were going to suggest we talk to them first." Her eyes tracked the crowd, counting heads the way he'd once seen her count exits in a room before she'd even sat down. "Talking is what we've been doing for six weeks, Jonah. Bellweather isn't interested in talking anymore, he's interested in an audience, and he has one."
+
+He noticed then that Dr. Yusuf Adebayo was pressed into the crowd not far from them, out of place among the miners in his lab coat with its faint chemical smell of algae culture, his expression a mixture of guilt and helpless fascination that told Jonah he already understood he was, at least in part, the reason for tonight's anger. Bellweather's mention of the geometric colonies had not been invented from nothing; Yusuf had indeed petitioned the resource committee three days earlier for an additional two kilowatts of grow-lamp power to maintain observation conditions on the tank where Thessaly's microbial cultures had begun, unprompted, arranging themselves into hexagonal lattices too regular to be accidental. He had argued, in a memo Jonah had helped draft the technical language for, that the pattern might be the most important discovery in the history of exobiology, and that two kilowatts against the station's total draw was a rounding error. To a hungry station, a rounding error and a luxury looked the same.
+
+"They think I'm starving them for beetles in a tank," Yusuf said quietly when Jonah reached his side, not looking away from Bellweather's crate. "I tried to explain. I don't think explanation is the currency anyone's trading in tonight."
+
+"So what, you clear the ring?"
+
+"I have four officers and one working stun baton between them. I clear the ring, I lose the ring." She said it without inflection, a woman doing arithmetic she despised. "Amara's coming down. I told her not to."
+
+"She came anyway."
+
+"She always does."
+
+Director Amara Quist arrived without an escort, which Jonah understood immediately was a choice and not an oversight—she had learned, across four decades of station administration on three different worlds, that showing up armed or accompanied was itself a kind of provocation, an announcement that you expected trouble and had therefore already decided the crowd was trouble. She moved through the press of bodies with the unhurried authority of someone who had once talked down a reactor-room mutiny on Ceres Two with nothing but a thermos of coffee and the willingness to be shouted at for forty minutes without flinching.
+
+"Tomas," she called up, and her voice, though not loud, cut through the murmur in a way that made Jonah understand, again, why the corporation had put her here. "You want to tell me what you actually want, or do you want to keep telling everyone what I already know?"
+
+Bellweather's composure flickered, just slightly, the way a man's does when the argument he rehearsed alone in his bunk meets an audience he cannot fully predict. "We want the truth about the reserves. Real numbers. Not Kestrel's numbers, filtered through you."
+
+"Kestrel's numbers are the real numbers. Kestrel doesn't have an opinion to protect."
+
+"Kestrel works for the company that stopped answering us forty-one days ago," someone shouted from deeper in the crowd, and the ring took up something like a cheer, ragged and hungry, and Jonah watched Amara's shoulders set very slightly, the only sign she gave that the words had landed somewhere soft.
+
+Jonah edged along the gallery rail, trying to place faces he knew among the crowd, and found more of them than he wanted to. There was Sefa Boru, who ran the tilapia tanks and had once given Jonah's mother a jar of pickled ginger root the week she'd arrived on station, standing now with her arms folded and her jaw set in a way that made her look ten years older. There was young Kip Anders, barely nineteen, who Jonah remembered as a boy chasing his father's boots through the docking bay, now shouting something about the corporate charter that Jonah suspected he had never actually read. Fear did this, he thought. It borrowed people's mouths and spoke words they would not otherwise have chosen, and by the time the fear passed, the words remained, spoken, unable to be unsaid.
+
+Overhead, the grow lights cycled without concern for any of it, sweeping the ring through violet and then a hard clinical white, indifferent to the two hundred kilograms of tension gathering beneath their glass. Somewhere above the shouting, water still dripped with perfect regularity from an irrigation line, a small persistent sound that struck Jonah, absurdly, as the most honest thing happening in the ring—the plants did not know the Quiet had happened. They only knew light and water and the patient chemistry of growing toward both.
+
+ not any single decision by anyone present. Later no one could agree on how it happened—a shoved technician stumbling into a support strut, a wrench dropped or thrown, it hardly mattered—but the line split and a jet of pressurized amber solution sprayed across three rows of bok choy and two people's faces, and someone screamed that they'd been maced, and the crowd's shape changed all at once from a mass with a grievance into a mass with a direction, which happened to be toward the officers at the north hatch.
+
+Jonah lost sight of Amara in the surge. He was shoved sideways into a support column hard enough to drive the air from his chest, caught a spray of hydroponic solution across one arm that stung where it found a scrape, and heard Mireille shouting something about the hatch, hold the hatch, and then a different sound entirely, high and short and wrong, a director's cry cut off by impact.
+
+By the time the crowd thinned—not dispersed, never dispersed, simply drained away through side corridors as the adrenaline exhausted itself and people remembered they had children waiting, tanks to check, shifts to sleep off—Amara Quist was on the deck near the ruptured line with Mireille kneeling over her and blood, shockingly bright against the green, running from a gash above her ear where she'd struck the crate's steel edge. She was conscious. She was saying something about the reserve numbers, still, arguing procedure even with her skull cracked open, and Jonah thought, with a clarity that frightened him more than the blood did, that this was the moment the station's spine had finally, audibly, begun to give.
+
+He looked back once, before the medical bay doors closed behind Amara's gurney, at the ruin of Ring C: bok choy trampled into green pulp, a support strut bent where someone had wrenched at it in the crush, the bedsheet banner torn down and stamped with bootprints. Two hydroponics technicians were already picking through the wreckage with the particular numbness of people whose life's work had just been used as a stage. One of them, an older man named Costa whom Jonah barely knew, was on his knees gathering scattered seedling trays with hands that would not stop shaking, murmuring to no one that they'd lose a full growth cycle now, they'd lose weeks, as if that single sentence could hold back everything else the night had cost.
+
+
+Chapter 14: What the Array Knew
+
+Medical was three decks up and it took them six minutes to get Amara there, six minutes in which Jonah held gauze against her scalp with one hand and her wrist with the other and she gripped his fingers hard enough to bruise, not from pain, he understood later, but from fury—at the crate, at Bellweather, at herself for walking in without a hard hat, at forty-one days of a silence she had no tools left to manage.
+
+Dr. Priya Okonkwo-Lang, Halcyon's sole remaining physician after the last rotation had failed to arrive before the Quiet, pronounced the wound serious but not immediately life-threatening: concussion, twelve stitches, a skull that had cracked but not broken. "She needs seventy-two hours flat," Okonkwo-Lang told Mireille and Jonah in the corridor outside, in the tone of someone who already knew the instruction would not survive contact with the patient. "Not seventy-two hours of running the station from a cot. Flat."
+
+"She won't take it," Mireille said.
+
+"Then find someone who can take it for her."
+
+Jonah lingered a moment at Amara's bedside after the doctor moved off to check on the other casualties the riot had produced—a dislocated shoulder, two cases of chemical burns from the sprayed nutrient solution, a technician who'd cracked two ribs against a support strut. Amara's face in sedated sleep looked smaller than it did awake, the diplomatic mask fallen away to reveal something plainer and more tired underneath, a woman in her sixties who had spent four decades solving other people's crises and had perhaps believed, on some buried level, that Halcyon would be the posting where she finally got to rest. He touched her hand once, briefly, an apology for a failure that was not entirely his, and went to find Mireille.
+
+Which was how, at 0340 station time, with the Director unconscious under a mild sedative and Ring C still smelling of scorched amber solution, Jonah Reyes found himself in the command tier arguing with Mireille Fontaine about a chain of authority that Halcyon's charter had never anticipated needing.
+
+"Kestrel," Mireille said to the air, "confirm operational succession."
+
+Kestrel's voice arrived from the ceiling array in its usual register, careful, unhurried, faintly formal in a way that had comforted Jonah for years and now struck him as almost cruel in its calm. "Per station charter section four, in the Director's incapacity, authority devolves to the ranking department head present and able to serve. Security Chief Fontaine, that is currently you."
+
+"I don't want it," Mireille said, flatly, to no one in particular, and Jonah understood that this was the truest thing she had said all night. "I'm not built to run a station. I'm built to hold a perimeter."
+
+"Then hold the perimeter," Jonah said. "I'll take administration."
+
+She looked at him for a long moment, and something in her face—not warmth, Mireille didn't do warmth, but a kind of grudging recalculation—settled into place. "You're comms staff."
+
+"I'm the one Amara's been briefing every evening for a month because she doesn't trust anyone else not to leak the reserve numbers to Bellweather's people. I know the board as well as she does."
+
+"That's not the same as running it."
+
+"No," he agreed. "But it's what we have at 0340."
+
+It was Ada Lindqvist who found them there, breathless, having sprinted the better part of four decks, her tablet clutched to her chest like something that might fly away from her. Sixteen years old and already the station's best hand at anything with a data bus, she had spent the last three weeks with Jonah picking apart the compressed file buried in the last transmission before the Quiet, and the look on her face now was not the look of a girl who had come to report a riot.
+
+"They're at the array," she said. "Tobiah's people. Brother Tobiah's people, they're at the primary dish control room, they've got the door sealed from inside."
+
+"Define 'they,'" Mireille said, already moving.
+
+"I counted eleven going up before I lost the corridor camera. Kestrel's cut from that section, I think they physically pulled a relay, that's why—"
+
+"Kestrel," Jonah said, "confirm."
+
+"Correct," said the AI. "I lost visual and audio in the dish control corridor and the control room itself at 0317. The last image I retain shows Brother Tobiah entering with a work crew of eleven, three of them hydroponics technicians who should have been on shift in Ring C at that hour."
+
+"Kestrel," Jonah said, an idea surfacing, "you flagged the dive expedition's structure as a resonance source years before we found it, and you were ordered to suppress that. Is there a comparable order in your logs regarding Brother Tobiah's movement patterns, or his access requests to the dish control corridor?"
+
+A pause, brief but noticeable, the kind of pause Kestrel had never used to have before the Quiet, as though the AI itself had begun to feel the weight of the questions it was now permitted to answer honestly. "Brother Tobiah submitted three maintenance access requests for the primary dish control room over the past nine days, each one denied by Chief Fontaine's standing security protocol. I logged each denial and, per my current operating parameters, took no further action, since no directive instructed me to escalate a pattern of denied requests to a station-wide alert. I recognize now that this was a narrow reading of my responsibilities. I apologize for the narrowness."
+
+"You don't need to apologize to us," Mireille said, though something in her voice suggested she found the apology unsettling precisely because it was unnecessary. "You need to help us get that room back without anyone else bleeding on my decks tonight."
+
+"He used the riot," Mireille said, with something like admiration curdled into disgust. "Bellweather's people burn off the anger downstairs, everyone's attention goes to the Director's blood on the deck, and Tobiah's people walk into the one room on this station that can talk to the rest of the solar system."
+
+"Why the array?" Ada asked. "There's nothing to transmit. The Quiet's the Quiet, there's no one listening—"
+
+"He doesn't think that," Jonah said, and the cold in his chest from the ring returned, sharper now. "You've heard him preach. He thinks the silence is judgment. He thinks humanity ascended, or was culled, and Halcyon's the last unworthy scrap left behind. If he believes that, the array isn't a communications tool to him. It's an altar. And an altar you control."
+
+Mireille was already pulling her sidearm's charge indicator and finding it, as always these days, at half capacity. "I have three officers who aren't currently guarding Medical or watching Ring C. I am not storming a sealed control room with three people and a wounded Director."
+
+"Then don't storm it," Jonah said. "Talk to him."
+
+"He's not talking to me. Last time I tried to enforce the curfew in his sector he had forty people between me and him within ninety seconds."
+
+"He might talk to me." Jonah heard himself say it before he had fully decided to, the way certain true things emerge before you've finished being afraid of them. "I'm not you. I'm not the woman who imposed the curfew, and I'm not Amara, who he's been needling for a month about corporate secrets. I'm the man who's been trying to reach Earth every day for six weeks and failing. He might see that as common ground. Or at least as something worth talking to instead of shooting at."
+
+"He might also decide you're the enemy's mouthpiece and keep you as a hostage," Mireille said.
+
+"He might."
+
+Ada had gone quiet during this exchange, her eyes moving between the two adults with the sharp, assessing look Jonah had learned to recognize over the past three weeks of decoding work together—the look she wore when she'd already run the probabilities and arrived somewhere neither of them had. "There's something else," she said finally. "Kestrel, before you lost the feed in that corridor, did you get anything on what they were carrying in? Tools, equipment, anything beyond hand luggage?"
+
+"Two of the eleven carried standard toolkits consistent with maintenance work," Kestrel said. "One carried a portable data terminal of a make not currently issued to any station department. I flagged it as anomalous at the time but had no authority to intervene absent a security directive."
+
+"A terminal," Ada repeated slowly. "Why would a prayer group need a terminal in the dish control room unless they meant to reconfigure something, not just occupy it."
+
+"That's a good question for after we get the room back," Mireille said, "not before," but Jonah saw the flicker of unease cross her face regardless, the recalculation of a threat she had been treating as symbolic and now had to consider as potentially technical as well.
+
+She studied him, and for the first time since he'd known her, she looked less like a woman assessing tactical odds and more like one running out of better options and hating the arithmetic that had brought her there. "Ada goes to Kestrel's backup terminal in Auxiliary Comms and starts working the problem from the server side, in case we need to cut power to that room remotely. You," to Jonah, "go up with one of my people as far as the corridor, no further, and you talk. First sign it's going wrong, you get out, you don't negotiate with your body in the doorway. Are we clear?"
+
+"Clear," Jonah said, and did not entirely believe himself.
+
+
+Chapter 15: The Persimmon Leaves at Dawn
+
+The corridor outside the dish control room was crowded with an improvised congregation, forty or fifty station residents sitting cross-legged on the deck plating with the particular stillness of people who had decided, collectively, that waiting here was itself a form of devotion. Someone had brought battery lanterns. Someone else was singing, low, a hymn Jonah didn't recognize with words that seemed assembled from half a dozen older ones, the kind of song that gets written in real time by people who need it that week. He walked through them slowly, hands visible, and felt more afraid of their calm than he would have felt of their anger.
+
+Brother Tobiah opened the control room door himself, which surprised Jonah more than anything else that night. He was younger than the voice made him sound over the station's public channel, younger than Jonah, with the sunken, luminous look of a man who had stopped sleeping properly some weeks ago and found the deprivation clarifying rather than depleting.
+
+"Jonah Reyes," he said, as if confirming an appointment. "The man who keeps calling into the dark."
+
+"That's the job," Jonah said. "Can I come in?"
+
+"You can stand where you are and I'll stand here. I don't think you came to pray with us."
+
+"I came because Director Quist is unconscious in Medical with twelve stitches in her scalp, because there are three hundred and some people on this station who are one bad week from starving, and because you're sitting in the one room that gives us any chance at all of hearing something before it's too late for any of that to matter. I want to know what you're planning to do with it."
+
+Tobiah's expression didn't so much harden as settle, the way something does when it has already decided its own shape. "We're not going to hurt anyone, Jonah. We're not your enemy. We're going to use the array as it should have been used from the start—as an instrument of witness, not corporate telemetry. When we transmit, it won't be a distress call. It'll be a testimony. An acknowledgment, sent outward, that some of us understood what happened and were not afraid of it."
+
+"Understood what, exactly? You keep saying ascension. Judgment. You don't know that. None of us know that."
+
+"And you know it's a relay failure? A solar storm, forty-one days running, across every frequency, on every world we've ever had contact with? You cling to your ignorance because the alternative frightens you. I've stopped being frightened. That's the only difference between us."
+
+"Is it," Jonah said. "Because from where I'm standing, you've built yourself a very comfortable answer. If it's judgment, there's nothing left to fix. If it's ascension, there's nothing left to mourn. Either way you get to stop trying, and call the stopping faith. I don't think that's fearlessness, Brother Tobiah. I think it's exhaustion wearing a robe."
+
+For the first time, something like real anger crossed Tobiah's face, quick and human and almost reassuring in its ordinariness. "You don't know what it is to sit with three hundred frightened people and have nothing to offer them but Kestrel's ration algorithms and a committee's minutes. I offer them meaning. You offer them spreadsheets."
+
+"I offer them a chance that someone is still out there. You've decided in advance that nobody is, and dressed the decision up as revelation. That's not comfort. That's surrender with better lighting."
+
+Behind Jonah, down the singing corridor, a comm unit clipped to his collar buzzed once, twice—Ada's signal, the one they'd agreed meant she had something urgent and it couldn't wait for him to finish. He held up a hand to Tobiah, stepped half back, and murmured into it.
+
+"Jonah." Ada's voice, tight and fast. "Sato's leaving. Now. He's finishing prelaunch on the Persimmon, he says he can't wait for the array situation to resolve, he's taking the window he's got."
+
+"Now? Tonight?"
+
+"He says the ice-shear forecast on Thessaly's south approach only holds for another four hours and if he loses the window it's another eleven weeks before conditions are safe for departure again. He's got forty volunteers already aboard, Jonah, people who signed up when he first proposed it. Fourteen months to the nearest colony beacon and back with real information, real relief, if there's anything left of a colony to reach."
+
+Jonah looked back at Tobiah, who watched the exchange with the mild, unbothered interest of a man observing weather from indoors. "Captain Sato's leaving tonight," Jonah told him. "Forty of your people, maybe—people from every part of this station—are about to fly fourteen months into the dark on the thin hope of finding someone alive to talk to. Whatever the Quiet is, whatever you believe it means, that ship is the most honest attempt anyone on Halcyon has made at getting an answer instead of a doctrine. I'd think you of all people would want to be there when it goes."
+
+Something moved behind Tobiah's eyes, quick and unwilled, gone before Jonah could name it—grief, maybe, or a doubt he had been suppressing at some real cost. "Faith doesn't require me to abandon my post," he said, but it came out quieter than his sermons.
+
+"Then keep your post. But give me the array room back before this station eats itself from the inside the way Ring C nearly did tonight. Bellweather's people and your people are drawing from the same forty-one days of fear. You don't have to agree with Mireille or with Amara. You just have to decide whether you want to be remembered as the man who held a door, or the man who helped hold this station together long enough for Sato's people to have somewhere to come back to."
+
+Tobiah didn't answer him there. He turned and went back into the control room, and for eleven unbearable seconds Jonah heard nothing but the murmured hymn behind him and his own pulse loud in his ears, and then the heavy door released its seal with a pneumatic sigh and swung open, and Tobiah stood in the gap with his eleven followers arrayed behind him, uncertain, watching their prophet for a sign.
+
+"We're not leaving Halcyon," Tobiah said. "But the array is yours tonight, Jonah Reyes. Go and see your captain off. I hope, for your sake and for his, that the dark he's flying into has something in it besides more silence."
+
+Behind him, the eleven followers began, without any visible signal, to file out past Jonah into the corridor, some of them not meeting his eyes, one of them—a young hydroponics tech named Priscilla Amoah, who Jonah recognized from Yusuf's tank room—pausing just long enough to say, quietly, almost apologetically, "We weren't going to hurt the equipment. We just wanted it to matter again, the way it used to." Jonah did not know what to say to that, so he said nothing, and let her pass.
+
+Jonah didn't wait to see whether the moment would hold; he had learned enough tonight not to trust any calm too far. He ran.
+
+The corridors between the array and the departure gantry cut across nearly a third of the station's habitable ring, and Jonah took them at a pace that left his lungs burning and his thoughts strangely clear, the way exertion sometimes did, stripping away everything but the essential shape of a problem. He passed the shuttered entrance to Ring C, still cordoned with security tape, and thought of Costa on his knees among the ruined seedling trays. He passed the medical bay and did not stop, though every instinct told him to check on Amara again, because Sato's window would not wait for anyone's grief. He passed a viewport that showed, for one dizzying stride, the full curve of Orun's rings catching the thin light of a sun five hours distant by radio and a lifetime distant by anything that mattered now, and he thought, absurdly, that the gas giant did not care in the slightest whether the small stubborn animals clinging to its ice moon solved their argument in time.
+
+He reached the departure gantry with four minutes to spare, lungs burning, in time to see the Persimmon's outer hatch cycling closed against the black, its running lights blinking amber-white through the viewport glass, Captain Haru Sato's silhouette visible for one last moment at the bridge window before the ship's own lighting dimmed for launch sequence. Forty faces, some of which Jonah had known his whole life on this station, were behind that hull now, going out into fourteen months of unlit distance on the strength of a bet that somewhere past the Quiet there was still someone who could answer.
+
+The docking clamps released with a shudder he felt through the deck plating under his boots. The Persimmon fell away from Halcyon Station slowly at first, then with gathering purpose, its drive flare kindling blue-white against the vast dark curve of Orun below, until it was a star among stars, then a rumor of one, then gone.
+
+Beside him at the viewport, a dockmaster named Priit Kallas, who had spent the better part of two months personally certifying the Persimmon's hull seals for a journey no one could promise would succeed, wiped at his eyes with the back of a grease-stained glove and said nothing at all, which Jonah understood to be its own kind of eulogy. Further down the gantry, a small knot of relatives who had not been permitted aboard—spouses, a mother, two children too young to fully grasp what fourteen months meant—stood pressed against the rail, and one of the children was asking, in the clear carrying voice of a child too young to have learned to whisper grief, whether the ship would come back before her birthday. Nobody answered her. Nobody could.
+
+Jonah stood at the viewport long after the flare had vanished, one hand pressed flat against the cold transparent aluminum, and thought of the array room standing empty and available three decks up, and of Amara asleep under sedation with the station's authority draped, however briefly, over his own unready shoulders, and of Ada already halfway back to her terminal to keep working the coordinates buried in that last transmission from Earth. Somewhere out past the ice and the dark, forty people were flying toward an answer. Somewhere closer, buried in Thessaly's black ocean, something built by microbes was already listening for one. He turned from the window and went to find out which would speak first.

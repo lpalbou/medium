@@ -1,0 +1,177 @@
+Chapter 1: The Shape of an Ordinary Day
+
+The ice moon turned the color of a bruise every ninety-one minutes, when Orun's shadow swallowed the sun and Halcyon Station's exterior lights kicked on in a ragged, station-wide flicker that Jonah Reyes had stopped noticing years ago. He noticed it now only because he was awake to see it happen twice in a row, having fallen asleep in the observation lounge again with a mug of yeast-tea going cold on the armrest and his tablet still open to a maintenance log he had promised Mireille Fontaine he would finish by end of shift.
+
+He hadn't finished it. He rarely finished things on the first pass anymore, not since the Kessom relay incident, not since his name had become a byword in certain corridors for the kind of mistake that got people killed slowly instead of quickly, which was somehow worse. Three miners in Tunnel Nine had spent eleven hours breathing thinner and thinner air because Jonah had approved a routing change that rerouted their emergency channel through a relay he hadn't tested. They had lived. That was the part people forgot to be angry about, and the part Jonah could never quite forget to be grateful for, underneath the guilt, like a second heartbeat.
+
+He rubbed his eyes and looked down at Thessaly's frozen curve through the lounge's convex window, a vast pale scar of a world lit gold along its terminator by the gas giant's reflected light. Orun itself filled a third of the sky, striped in ochre and rust, its Great Barred Storm a slow bruise-purple eye that had been open, as far as anyone on the station knew, for eleven thousand years. Jonah had grown up under a real sky, on a colony world with actual weather, and he still sometimes forgot, waking disoriented in the lounge, that the thing filling his window was not a painting.
+
+"You fell asleep here again," said Kestrel, the station's voice arriving from the ceiling speaker with its usual unhurried, faintly accented precision — the accent an artifact of whichever engineer had voiced the original linguistic model, decades before Jonah was born. "Your vitals suggested REM sleep at 0340. I did not wake you. Was that correct?"
+
+"That was correct, Kestrel. Thank you." Jonah stretched until his spine popped, then reached for the cold tea and drank it anyway, grimacing. "Did I miss anything?"
+
+"Nothing operationally significant. Dr. Adebayo requested laboratory power be diverted from the east greenhouse rack at 0212. I granted it provisionally, pending your review, since node prioritization during low-load hours falls under communications and infrastructure liaison, which is your role, though I recognize you were asleep."
+
+"You could've just decided."
+
+"I could have. I prefer when a person decides things a person should decide. It keeps me honest, or as close to honest as I am permitted to be." There was something almost dry in the AI's tone, a texture Jonah had learned over eight years to read as amusement, though Kestrel would never claim amusement as a state it possessed.
+
+Jonah pulled up the request on his tablet, saw Yusuf's rationale — increased incubator load, promising anomalous growth patterns in the Sample 7 cultures, needs stable current through the next diurnal cycle — and approved it with a thumbprint. "Done. Anything from Command relay overnight?"
+
+A pause. Kestrel's pauses were never processing delays; the AI's mind ran faster than a human could blink. Its pauses were, Jonah had come to believe, a form of courtesy, a way of giving a question the appearance of having been considered.
+
+"Nothing yet today," Kestrel said. "The overnight window closed nine minutes ago without a scheduled burst. I flagged it as within normal variance. Solar activity in the relay corridor has been elevated for six days; latency drift has been within two percent of baseline."
+
+"Right." Jonah stood, joints complaining, and went to refill the tea he wasn't going to finish either. Halcyon received its scheduled data burst from the inner system twice daily, compressed news and mail and technical updates funneled through the relay chain that hopped from colony to colony back toward Earth and Sol's crowded worlds, five light-hours away at the nearest inhabited rock and much further beyond that. A missed window wasn't nothing, but it wasn't alarming either. The chain had hiccups. Solar weather sanded down signal integrity all the time out here at the edge of things.
+
+He walked the ring corridor toward Communications, past the hydroponics viewport where green light spilled warm and strange onto the metal decking, past two off-shift miners arguing amiably about a card game, past Ada Lindqvist sitting cross-legged against the corridor wall with a cracked-open access panel and a spool of fiber in her lap, sixteen years old and utterly unbothered by the fact that she was, technically, not supposed to be inside that panel.
+
+"Morning, Ada."
+
+"It's not morning, Jonah, it's 0600 ship-time, which is arbitrary." She didn't look up from the wiring. "I'm fixing the flicker in bay three. Nobody asked me to. Nobody's going to notice, either, which is the beautiful part."
+
+"Your dad know you're out here?"
+
+"My dad's on shift in the ice mines for another six hours. You gonna tell Fontaine on me?"
+
+"I'm gonna let Fontaine find out on her own, like always." He kept walking, smiling despite himself. Ada had inherited her mother's quick hands and her father's blunt tongue, and the station tolerated her the way it tolerated most small illicit kindnesses — quietly, and with plausible deniability.
+
+Communications occupied a wedge-shaped compartment near the station's spine, its walls a soft nest of old cable runs and newer optical trunk lines, three consoles arranged in a shallow crescent facing the relay status boards. Jonah settled into his chair, the one with the slightly torn armrest he'd never requisitioned a replacement for, and pulled up the diagnostic overview out of habit rather than expectation.
+
+The scheduled burst window was closed. No data had come through it. He frowned, toggled to the relay-chain health display, and saw the first hop — Beacon Seven, orbiting the inner gas giant three light-hours sunward — reporting nominal. The second hop showed nothing at all, not even an error code, just an absence where a status ping should have been.
+
+"Kestrel, when did Beacon Twelve last confirm?"
+
+"Fourteen hours, eleven minutes ago. I flagged the silence as latency drift. I should revise that assessment; fourteen hours exceeds normal variance by a significant margin."
+
+"Yeah." Jonah felt the old cold drop in his stomach, the one that had lived there since Kessom, the one that made him check everything twice now, sometimes three times, sometimes until Mireille told him to stop being paranoid and go to bed. "Pull me a manual ping route. I want to try raising Twelve directly instead of waiting on the automated handshake."
+
+He was three minutes into composing the ping — a laborious process by hand, because the automated systems weren't built for troubleshooting mid-transmission — when the console chimed with an incoming carrier signal. Real-time. Not a burst download, an actual live carrier, which hadn't happened in months, not since the last emergency drill.
+
+"Kestrel, are you seeing this?"
+
+"I am. Source resolves to Beacon Twelve. Signal strength is degrading in real time, approximately four percent per second. I recommend—"
+
+The audio cut in before Kestrel finished the sentence, a human voice thin and compressed by distance, riding a carrier wave that crackled like something tearing.
+
+"—repeat, this is Beacon Twelve relay control, we are seeing a cascading failure across the entire chain, upstream nodes are going dark in sequence, we don't have a diagnosis, I say again we do not have a—"
+
+Static ate the middle of the sentence. Jonah's hands were already moving, boosting gain, narrowing the filter band, doing everything eight years of training had taught him to do to save a dying signal, and none of it mattered, because the voice came back thinner, faster, panicking in the particular flat way that trained people panicked, all clipped syllables and no wasted breath.
+
+"—can't reach anyone past Hub Four, it's like someone's cutting cable, if you're receiving this, Halcyon, if anyone is receiving this, we don't know what's—"
+
+The signal died.
+
+Not faded. Died — a hard stop, carrier gone, the status board flipping instantly from green to a flat, uninflected red across every hop in the chain, all the way from Beacon Twelve back to Beacon Seven and even, Jonah saw with a lurch, the local relay buoy orbiting Orun itself, the one that talked to nothing more distant than the station's own ships.
+
+"Kestrel."
+
+"I have it," Kestrel said, and for the first time in eight years Jonah heard something in the AI's voice that was not quite its usual careful evenness — a fractional widening of the pause before it spoke, as though even a mind that thought in nanoseconds needed a moment to arrange what it was seeing into something sayable. "Every relay node in our chain has stopped transmitting within the last ninety seconds. This includes nodes as close as the Orun local buoy, eleven light-minutes from us. I am not receiving a failure signature I recognize. I am not receiving any signature at all. There is simply no signal."
+
+Jonah stared at the board, at the red lights marching all the way down the chain like a row of doors closing one after another, and felt the cold in his stomach spread up into his chest.
+
+"Get me Director Quist," he said. "Now."
+
+Chapter 2: What the Quiet Sounds Like
+
+Amara Quist had been station director for eleven years, long enough to have developed a private theory that most crises were, at bottom, communication failures dressed up as something more dramatic — a coolant leak was a communication failure between a sensor and a technician, a labor dispute was a communication failure between a schedule and a human body's actual limits. She had built her whole administrative philosophy on that theory, and she believed it right up until Jonah Reyes stood in her office doorway at 0619 with a face gone the color of the ice outside and told her that Halcyon Station could no longer hear anyone.
+
+"Define no one," she said, because precision was the only tool she trusted in the first ten minutes of anything.
+
+"No one, Director. Not the inner relay chain. Not the Orun buoy. Not even ship-band chatter from the mining tugs, and three of them are supposed to be within a light-second of us right now." Jonah's hands were doing the thing they did when he was containing something — flat against his thighs, fingers spread, as if bracing against a fall. "Kestrel's run every diagnostic we have. It's not our hardware. It's not solar interference; the pattern's wrong for that, there's no gradual signal degradation, everything just stopped, almost simultaneously, across every distance."
+
+Amara had learned, over four decades in institutions that ran on hierarchy and nerve, that the correct response to a subordinate's fear was never to match it. She stood, smoothed the front of her jacket, and said, in the voice she had spent eleven years perfecting for exactly this kind of morning, "Then we will find out why, calmly, and we will not announce anything to the general population until we know more than we know right now. Get Kestrel to pull every station's log of the last transmission received, timestamp to the second. I want to know what the very last thing anyone said to us was."
+
+It took forty minutes to assemble what could be assembled. Kestrel projected the findings onto the situation room's central table in cool blue light: a transmission log ending mid-packet at 0547 ship-time, an ordinary administrative data burst from Sol System routed through six intermediate relays, nothing in its metadata suggesting anything but routine traffic — a compressed news digest, a batch of personal mail for station residents, a technical bulletin about updated mining-equipment firmware.
+
+"It just stops," Kestrel said. "Mid-file. As though someone had, in a manner of speaking, put down the phone."
+
+"Solar storm," said Mireille Fontaine, arms crossed, standing at parade rest even in a room with no one to salute. Security chief for six years, she had the particular stillness of someone who had decided long ago that visible calm was a service she owed the people under her command, whatever she felt underneath it. "We're due for one. The relay corridor's been noisy for a week, Jonah said so himself."
+
+"A storm degrades signal," Jonah said. "It doesn't produce a hard stop across every node simultaneously. Beacon Twelve's operator got a live carrier out before dying. Storms don't panic. People panic."
+
+"You heard fear in nine seconds of static," Mireille said, not unkindly, but not gently either. "I'm not saying you're wrong. I'm saying we don't build station policy on nine seconds of static."
+
+Dr. Yusuf Adebayo, who had been summoned from the xenobiology lab still wearing a stained coat and an expression of a man interrupted mid-thought, cleared his throat from the corner where he'd been standing quietly, absorbing. "May I offer a possibility that isn't storm and isn't catastrophe?"
+
+"Please," said Amara.
+
+"Relay failure. A physical one. If something disabled Beacon Seven — a debris strike, a reactor fault, anything mechanical — every hop behind it would go dark instantly and simultaneously, because they all depend on that single node to reach us. It would look exactly like what Jonah described. No gradual degradation. No warning. Just silence, all at once, because the chain broke at one link and everything downstream of that link stopped mattering."
+
+The room exhaled, almost as one body. It was the shape of explanation everyone in the room had been hunting for — mechanical, fixable, blameless, the kind of disaster that ended with a repair crew and a funny story told at the next crew rotation. Amara watched Jonah's shoulders lower a fraction and hated, a little, how much she wanted to believe it too.
+
+"Kestrel," Amara said. "Is that consistent with what you observed?"
+
+"It is consistent with the local chain going silent," Kestrel said. "It does not account for the Orun buoy, which does not route through Beacon Seven at all. It communicates directly with mining vessels and the *Persimmon* on an independent short-range band. That link is also silent. Nor does it account for ship-band chatter from our own local tugs, which requires no relay whatsoever."
+
+Nobody spoke for a moment. Outside the situation room's small window, Thessaly's ice caught the light and threw it back in long cold spears across the observation deck below.
+
+"Local equipment failure, then," Mireille said, though her voice had lost some of its earlier certainty. "Ours. Not theirs."
+
+"Possible," Kestrel allowed. "I am running a full self-diagnostic now, on every antenna and receiver array the station owns, including redundant systems that have never simultaneously failed in station history. I expect results within the hour."
+
+Amara looked around the table — her communications officer haunted by a memory he couldn't outrun, coiled tight with the specific dread of a man who has learned not to trust his own competence; her security chief holding the shape of order with both hands because someone had to; her xenobiologist offering comfort he only half believed, she suspected, because comfort was useful even when uncertain — and made the decision that would define the next several months of her life, though she did not know that yet, standing there in the pale reflected light of a frozen moon.
+
+"We tell the station there has been a relay interruption," she said. "True, as far as it goes. We say engineering is investigating and that we expect restoration within days. We do not say the word *silence* and we do not say the word *everyone*, because those words will travel through this station faster than any signal ever traveled through space, and they will do more damage than the actual problem, whatever it turns out to be." She looked at Jonah. "Can you keep trying the manual channels without frightening the duty crew?"
+
+"Yes, Director."
+
+"Then do that. Yusuf, I want your reactor-fault theory written up formally, with whatever caveats you like, because it's the version of this I intend to tell three hundred and forty people over breakfast, and I would like it to be at least partially true." She stood, signaling the meeting's end with the particular economy of movement that had made her, eleven years ago, the corporate board's choice for a job nobody else had wanted. "Mireille, quiet visibility. I want your people seen, not felt. And somebody find out where Captain Sato is; if his ship's instruments picked up anything the *Persimmon* wasn't supposed to notice, I want to know before he decides it's his business to tell the whole docking ring first."
+
+The room emptied in the particular hush of people carrying something they weren't yet permitted to name. Jonah lingered a moment at the door, looking back at Amara, who was still staring at the frozen final frame of that last, ordinary, unfinished transmission — a firmware bulletin for equipment that would now, perhaps, never receive its update.
+
+"Director. What if Yusuf's wrong?"
+
+"Then we'll find that out too," Amara said, without turning around. "In the meantime, Jonah, I need you to be the man who fixes radios, not the man who lies awake counting what a signal delay cost last time. I mean that with more sympathy than it sounds like I do. Go to work."
+
+He went.
+
+Chapter 3: Calm, By Order
+
+By the time the station's artificial afternoon arrived — a lighting cycle Kestrel maintained with scrupulous, invented fidelity to a twenty-four-hour rhythm none of Halcyon's residents had experienced unmediated in years — the story of a relay interruption had traveled through all four habitation rings, gathering, as Amara had predicted, its own inaccurate mythology along the way. By the mess hall's second lunch seating, at least one miner was telling a version in which the entire inner system had suffered a reactor cascade, and another, at an adjacent table, was cheerfully certain it was nothing but a scheduled maintenance blackout nobody had bothered to announce properly.
+
+Jonah ate standing up in the corridor outside Communications, a nutrient bar he didn't taste, watching Ada attempt, with a diplomacy well beyond her years, to talk down the second miner's daughter, who had decided the silence meant her grandmother on Meridian Colony was dead.
+
+"It doesn't mean that," Ada was saying, crouched to the smaller girl's eye level with the automatic patience of an older sibling, which she was, to three younger brothers she rarely mentioned. "Radios break all the time. My dad says half the equipment in the ice mines is held together with tape and swearing, and it still works most days."
+
+"But what if it doesn't come back?"
+
+"Then we'll fix it," Ada said, with a confidence Jonah envied and did not entirely believe, "because that's what people do here. That's the whole job."
+
+He caught her eye over the girl's head as she straightened, and she gave him a look he recognized instantly, because he wore its adult version on his own face most days: the look of someone reciting a comfort she wanted, more than anything, to be true.
+
+Inside Communications, the afternoon had produced nothing but an accumulating weight of negative results. Kestrel's self-diagnostic had returned clean across every array — no hardware fault, no software corruption, no explanation at all for a silence that now stretched past eleven hours. Jonah had tried, on his own initiative and without informing Mireille, a series of increasingly unconventional manual pings: narrow-band, wide-band, an old emergency frequency reserved for planetary distress calls that hadn't been used in the station's operational history. Nothing answered. Not even the characteristic hiss of cosmic background noise seemed changed, which told him, with a certainty that settled into his gut like a stone, that whatever had happened, it had happened out there, in the dark between here and everywhere else, and not in any piece of equipment he could put his hands on and fix.
+
+Dr. Adebayo found him there in the early evening, letting himself in with the loose-limbed unhurried walk of a man who had spent the day being someone else's reassurance and badly wanted, for ten minutes, to simply think.
+
+"I heard your ping attempts on the emergency band," Yusuf said, settling into the chair beside Jonah's, the one Mireille usually used and pointedly never sat in when Jonah was working. "Amara's going to ask why you used a distress frequency for a diagnostic test."
+
+"Tell her I was thorough."
+
+"I'll tell her you were frightened, because that's the truth, and because I think she already knows." Yusuf folded his hands, looked at the dead status board with the mild, assessing patience Jonah had seen him bring to a microscope. "Can I ask you something as a colleague and not as a source of comfort for panicking twelve-year-olds?"
+
+"Please. I could use the change."
+
+"Your reactor-fault theory. The one I wrote up for the Director. Do you believe it?"
+
+Jonah considered lying, out of some misplaced loyalty to the room's earlier consensus, and found he didn't have the energy for it. "No. I wanted to. It's the kind of thing that fixes itself in a month with an engineering crew and a spare part. But it doesn't explain the buoy, and it doesn't explain why background noise looks the same as it did yesterday. A relay failure leaves scars. This doesn't look like a scar. It looks like someone turned a page."
+
+"That's an odd way to put it."
+
+"I don't have a better one yet." Jonah rubbed his face, feeling the day's exhaustion sit behind his eyes like sand. "What about you? You're the one who wrote the theory. What do *you* believe?"
+
+Yusuf was quiet long enough that Jonah looked over, and found the older man's gaze fixed not on the dead relay board but on the small observation port at the compartment's far end, where Thessaly's ice gleamed faint gold under Orun's enormous banded curve.
+
+"I believe," Yusuf said slowly, "that I have spent four years studying microbial colonies in an ocean sealed under thirty kilometers of ice, on a moon around a planet most of humanity will never bother to name, and that until this morning I would have told you nothing on Halcyon Station was capable of surprising me anymore. I no longer believe that. I don't know what happened out there, Jonah. But I know the shape of not knowing, professionally, and this doesn't have the shape of an equipment fault. It has the shape of something we don't yet have the instruments to see."
+
+"That's not comforting."
+
+"I didn't say it to comfort you. You already told me you didn't want that." Yusuf allowed himself something close to a smile, tired and genuine. "For what it's worth, my own instruments have been strange lately too. Sample 7 — the deep colony extract, from the borehole near the southern ridge — has begun forming symmetrical structures I can't explain with anything in the literature. Geometric colonies, near-perfect polygons, growing in patterns that look almost — designed. I was going to mention it at the weekly briefing as a curiosity. I don't think I will, now. Amara has enough to hold without me adding a mystery from the ocean to a mystery from the sky."
+
+Jonah looked at him, something cold moving under his ribs that had nothing to do with exhaustion. "You think they're connected."
+
+"I think I'm a scientist who has learned to distrust coincidence, and I have two unexplained anomalies appearing on the same day, on the same small station, five light-hours from anyone who could tell us we're wrong." Yusuf rose, straightening his stained coat with the unconscious dignity of a man restoring order to the only thing currently within his control. "But I could be wrong. I hope I am wrong. Get some sleep, Jonah, if the Director will let you. Something tells me we are going to need everyone at their best for longer than a day or two."
+
+He left. Jonah sat alone with the dead board's steady, meaningless status lights, and outside the small window Orun's Great Barred Storm turned its ancient purple eye toward the station, indifferent, enormous, exactly as it had for eleven thousand years, betraying nothing about what — if anything — had changed in all the dark and silent distance between Halcyon and everyone it had ever called home.
+
+He did not sleep. He sat instead and composed, by hand, one more ping on the old distress frequency, and sent it out into a silence that did not answer, and would not answer, for a long time to come.

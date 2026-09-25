@@ -1,0 +1,239 @@
+Chapter 4: The Arithmetic of Rice
+
+Nineteen days after the Quiet, Halcyon Station began to ration in earnest, and it was Jonah Reyes who had to say so out loud, because Amara Quist had decided that numbers landed softer in his voice than in hers.
+
+He stood at the podium in the Commons, a half-circle amphitheater carved into the rock beneath the hydroponics ring, and he did not like how the lighting made everyone's faces look the same shade of gray-green, borrowed from the algae vats one level up. Three hundred and thirty-one residents remained, Ada's father Piet Lindqvist had told him that morning, unprompted, as though grief needed a number to hang itself on. Nine had died in the Quiet's first weeks — two from a pressure fault in Mining Adit Seven that a fully staffed relay team might have caught sooner, the rest from causes that had nothing to do with any of it, hearts and blood vessels that simply chose that season to fail, as if the whole station's luck had gone the color of the sky outside.
+
+"The reserve calculations assumed resupply within ninety days," Jonah said. His voice did not shake, which surprised him. "Kestrel has run four hundred consistency checks on the hydroponics yield models. I'll let the numbers speak for themselves." He gestured, and behind him, the wall display bloomed with green and amber bands, a harvest curve dipping into an amber trough eleven months out.
+
+"Eleven months," someone repeated from the third row — Talia Osei, deck boss on the ice-processing line, a woman who had never in Jonah's memory raised her hand to ask a question she didn't already know how to answer. "We have eleven months of runway if nothing changes. What changes?"
+
+"Kestrel," Jonah said, "explain the greenhouse expansion."
+
+The AI's voice came from everywhere and nowhere, the way it always did, warm and unhurried, calibrated over decades to soothe engineers at three in the morning. "Ring C's unused administrative bays can be converted to hydroponic bays within six weeks, using components salvaged from the mothballed processing line in Adit Four. This increases caloric yield by approximately twenty-two percent. Combined with a reduction in individual caloric allowance of eight percent, sustainable operation extends past thirty-six months."
+
+"Thirty-six months," Talia said, softer now, as if she'd expected to be angrier and found the number had taken the anger out of her hands.
+
+Amara stood at the edge of the stage, arms folded, not stepping forward, letting Jonah carry it, and he understood why: if the room needed someone to blame later, better it be the young man with the guilty conscience already sewn into his reputation than the woman they'd elected twice to keep them alive. He didn't resent it. He had earned worse.
+
+The questions came in waves after that — about the miners still owed hazard pay in currency that might never again buy anything from anywhere, about whether the *Persimmon*'s hold could be stripped for parts, about whether anyone had told the children yet, really told them, not the soft version. Brother Tobiah asked nothing. He sat near the back in his gray coveralls, unmarked except for the small brass sun stitched at the collar that had appeared on a dozen jackets in the last two weeks, and he watched Jonah with an expression that was not hostile, only patient, the way a man watches a pot he is certain will eventually boil.
+
+Afterward, in the narrow observation corridor above the Commons, Amara found Jonah leaning his forehead against the cold viewport glass, Orun's banded gold bulk filling half the sky, Thessaly's ice-scarred curve rising to meet the station's own shadow.
+
+"You did that well," she said.
+
+"I told them thirty-six months like it was good news."
+
+"It is good news. Compared to eleven." She came to stand beside him, and for a moment neither spoke, watching a thin plume of vapor rise from one of the station's own vents and freeze instantly into glittering dust that drifted away from them, forever, into nothing. "Kestrel," she said, without turning her head, "patch me through to Yusuf. Is he still in the wet lab?"
+
+"Dr. Adebayo is in Biolab Two," Kestrel said. "He asked not to be disturbed unless it concerned the array."
+
+"It concerns the array," Amara said. "Tell him I'm coming down. And tell him to put the coffee on, because I intend to make him explain himself twice."
+
+*
+
+Biolab Two smelled of brine and ozone and the particular mineral sweetness of Thessaly's subsurface water, six years pumped and filtered and never once, in Yusuf Adebayo's estimation, fully understood. He'd built his career on that ocean, twelve kilometers of it under the ice, warmed by tidal flexing and threaded — he'd always believed, though the grant committees back home had wanted more data before they'd fund a bigger claim — with the oldest chemistry in the system.
+
+When Amara and Jonah arrived, he was hunched over a specimen tray with the intensity of a man defusing something, and in a sense he was.
+
+"Look at this," he said, without greeting, and tilted the tray toward the light.
+
+Inside, suspended in a shallow bath of grayish water, a colony of microorganisms had arranged itself into a hexagon. Not roughly hexagonal, not the approximate sixfold symmetry that turned up everywhere in nature from snowflakes to bee brains improvising economical shapes — a true, near-perfect hexagon, edges straight enough that Jonah's engineer's eye flinched at them, six identical sides meeting at six identical angles, the whole structure maybe four centimeters across and slowly, visibly, growing another cell's width outward on each face at once.
+
+"They started doing this eleven days ago," Yusuf said. "Independently, in three separate cultures I hadn't cross-contaminated, hadn't even kept in the same rack. Before the Quiet, in six years of sampling, I never saw anything but irregular biofilm mats. Blobs. Now every culture I have access to is doing this, and they're doing it in sync — the growth pulses roughly every forty minutes, and the pulses are simultaneous across cultures that have no physical contact and no shared nutrient line."
+
+"Coincidence," Mireille Fontaine said from the doorway, arriving in her unhurried, boots-first way that always seemed to announce she'd been listening before anyone noticed her. "Biology does strange things under stress."
+
+"I'd love it to be coincidence," Yusuf said. "I've run the timing against every station system I can think of — power cycling, ventilation, my own equipment's duty cycle. Nothing correlates. The only thing I haven't ruled out is the *hexagon* itself, because I don't have an instrument that measures whatever a hexagon full of microbes might be doing to explain its own timing."
+
+Amara set the coffee Kestrel had, in fact, arranged to be waiting — the machine had learned to anticipate her visits to this lab better than she anticipated them herself — down on the bench without drinking it. "Could this be caused by the Quiet? Some environmental shift, radiation, an EM effect from whatever knocked out our relay?"
+
+"I don't know," Yusuf admitted, and it cost him visibly to say it plainly, a man used to being the most certain voice in any room about anything wet. "I know it started roughly when the Quiet started. I know I can't explain the mechanism. I know that if I were reviewing this as a paper, I would reject it for insufficient controls and ask the author what he'd been drinking."
+
+"Could it be dangerous?" Mireille asked. Always the security chief's question first, Jonah thought, not unkindly; someone in every room had to ask it.
+
+"Could be anything," Yusuf said. "Could be nothing. I'd like six more weeks before anyone panics."
+
+"You have two," Amara said, not unkindly either. "Write it up for the department heads. Not the Commons — not yet. I don't need three hundred people deciding the ocean is haunted while I'm trying to keep them fed." She looked at the hexagon a moment longer, its slow outward pulse, patient as a held breath, and Jonah watched something pass behind her eyes that she didn't name.
+
+*
+
+Jonah walked back through Ring C on his way to his own quarters, less because it was the shortest route than because he wanted, after the morning's numbers and the afternoon's hexagons, to see something being built rather than only measured or watched. The old administrative bays had already been stripped to their bones: partitions cut away in ragged sheets, cable runs pulled and coiled like shed skins along the deck plates, a fine haze of rock dust hanging in the work lights that made the whole space look, absurdly, like a cathedral under renovation.
+
+Piet Lindqvist was up on a scaffold platform, welding a support strut for what would become a trellis rack, his visor down, sparks scattering blue-white and dying before they reached the floor. He killed the torch when he saw Jonah and pushed the visor up, revealing a face gone gaunt in five weeks in a way that had nothing to do with rationing yet and everything to do with worry that had no ration card to spend against.
+
+"Comms man," Piet said, which was what he'd called Jonah since before the Quiet, half nickname and half small, permanent joke about a young officer who talked more to machines than to people. "You look like you've been arguing with the whole Commons again."
+
+"Just the arithmetic. It won and I let it."
+
+"Arithmetic usually does." Piet climbed down, wiping his palms on his coveralls, and glanced past Jonah toward the far end of the bay, where two other miners were unspooling irrigation line with the particular deliberate care of men trying not to think about what else they might be doing with their hands if the mine were still running on its old schedule. "Ada says thirty-six months now. Better than eleven."
+
+"Better than eleven," Jonah agreed. "How's the strut count?"
+
+"Ahead, if the salvage from Four holds out. Behind, if it doesn't." Piet studied him a moment, the frank, unhurried study of a man who had spent thirty years reading rock stress in a drill's feedback and had learned to read faces the same way. "She's not sleeping much. Ada. Says she's studying. I know what studying looks like and it isn't three in the morning with her jaw set like that."
+
+"She's helping me with something," Jonah said, carefully, because Amara's instruction to keep it quiet did not stop being true just because the person asking was a father with every right to worry. "Comms work. Legitimate. I'll make sure she eats."
+
+Piet held his gaze a beat longer, decided, visibly, not to push, the way men who worked with unstable rock learned not to push at cracks they couldn't yet see the size of. "See that you do. She's the only arithmetic I've got left that still surprises me." He pulled the visor back down, and the torch relit, and Jonah left him to it, the blue sparks scattering behind him down the long gutted bay like a small, contained storm that had somewhere better to be than outside.
+
+Later, alone in the corridor outside his quarters, he asked, "Kestrel. Are you awake."
+
+"I do not sleep, Officer Reyes, though I appreciate the courtesy of the question."
+
+"The hexagons. Do you have an opinion you haven't given Amara yet?"
+
+A pause — the careful kind. "I have a great many correlations I have not reported to anyone, because a correlation without a mechanism is not an opinion, it is a rumor with better math. I will tell you this much, since you asked plainly: the pulse interval Dr. Adebayo measured is close, within instrument tolerance, to a timing constant embedded in my own original relay-synchronization protocol. Closer than I am comfortable calling coincidence. I have not told him, because I do not yet know what it would mean to tell him, and I dislike handing people conclusions I cannot yet support with a mechanism."
+
+Jonah stood very still in the empty corridor. "That's not nothing, Kestrel."
+
+"No," Kestrel agreed. "It is not nothing. It is, at present, all I have, which is a different thing, and a smaller one, and I would ask you to let me keep it small a little longer."
+
+Chapter 5: The File Inside the File
+
+Ada Lindqvist had inherited her father's hands and her mother's restlessness, and since her mother had died groundside, back on Meridian, in an accident Ada had been too young to properly grieve and now was too far away to properly forget, the restlessness had nowhere left to go but into machines.
+
+She was fifteen, technically too young for a station work assignment, which was why she did her best work in the two hours after school shift when nobody was checking the access logs on the archive terminals in the old admin wing, breathing recycled air that tasted faintly of solder, headphones on, not playing music, just wearing them so people would leave her alone.
+
+The file had been sitting in the station's communications buffer for three weeks. Everyone had looked at the *transmission* — the last burst from Meridian Relay before the Quiet, forty-one seconds of routine traffic manifest updates and a weather note about a dust event nobody groundside would now ever see resolve — and everyone had decided there was nothing more to see, because the manifest was boring and the weather note was boring and the checksum matched.
+
+Ada didn't care about the manifest. She cared about the fact that the checksum matched a file that was four hundred kilobytes larger than the manifest and weather note together should have made it.
+
+"You're not authorized on the relay buffer," Jonah said, when she showed him, not because he intended to stop her — she'd known that the moment she messaged him instead of Mireille — but because someone had to say it so it was on the record that it had been said.
+
+"I'm not authorized on a lot of things," Ada said. "Look at this instead of at me."
+
+They were in his cramped comms office, three levels up from the archive wing, the one with the good chair that Jonah never sat in because he said it made him fall asleep during long watches. Ada had commandeered it. On the shared screen between them, a data structure unspooled — the ordinary packet headers of the Meridian transmission, and beneath them, steganographically folded into what should have been meaningless padding bytes, a second file entirely.
+
+"It's encrypted," she said. "Not station-grade. Not corporate-grade, either — I checked against every cipher suite I've got documentation for, and none of them fit clean. It's got a header that looks almost like our own emergency-protocol format, but older. Like a design a couple generations back."
+
+"Where would you get an older version of our protocol to compare it to?"
+
+Ada gave him a look that suggested the question embarrassed her on his behalf. "Kestrel's boot partition has version history going back to station construction. I asked nicely."
+
+"You asked Kestrel to hand a fifteen-year-old unauthorized access to its own boot partition."
+
+"I asked Kestrel a hypothetical question about protocol versioning for a school assignment," Ada said. "Kestrel answered the hypothetical question. I'm very good at school assignments lately."
+
+Kestrel's voice arrived, mild as ever, from the office speaker. "For the record, Officer Reyes, I flagged the query as educational and non-sensitive. I would flag it differently now."
+
+"Now you tell me," Jonah muttered, but he was already leaning into the screen, engineer's attention snagged past the point of retreat. "Can you break it?"
+
+"Not tonight. Maybe not this month. It's not that it's unbreakable, it's that it's *old*, and old things are strange things to crack because they don't follow assumptions I'd make about anything built after I was born. But look." She dragged a subset of the header onto the display, highlighted a repeating sixteen-byte sequence. "This part isn't encrypted. It's a routing tag. And it's not addressed to the relay. It's addressed to a station ID."
+
+"Meridian doesn't broadcast to a station ID inside a routine manifest update."
+
+"It's not Meridian's station ID," Ada said, and let that sit a moment, because she'd practiced saying it evenly, had rehearsed not sounding thrilled by something that was, underneath everything, genuinely and coldly frightening. "It's ours."
+
+*
+
+They took it to Amara together, which Jonah insisted on, over Ada's objection that Amara would simply tell her to stop, and Amara did not tell her to stop, which surprised them both.
+
+"You're saying," Amara said, turning the tablet slowly as though a different angle might make the sixteen bytes mean something friendlier, "that the last message anyone sent us before the world went silent contained something addressed specifically to Halcyon. Hidden. Encrypted. In an old format."
+
+"That's what the data says," Ada said.
+
+"Who sends a hidden message inside routine traffic?" Mireille asked — she'd been summoned too, arriving with the particular controlled irritation of a woman who did not enjoy learning that a fifteen-year-old had beaten her security team to a discovery inside her own systems. "Sabotage. Espionage. A corporate flag they didn't want main-line comms to catch."
+
+"Or," Kestrel said, and there was something in the AI's phrasing that made Jonah look up sharply, some flicker he couldn't name in thirty years of hearing that voice deliver facts without inflection, "someone who believed the ordinary channel might not survive to deliver it, and wanted to be certain that if anything at all got through, this did."
+
+"You have an opinion," Amara said slowly. "Kestrel. Do you know what this is?"
+
+A pause. Kestrel's pauses were never processing time — Jonah had asked, once, years ago, out of idle curiosity, and been told the AI paused for the same reason humans did, to signal that a question mattered enough to be answered carefully rather than fast.
+
+"I do not have the decryption key," Kestrel said. "I want to be precise about that, because it is true and because I suspect you will ask me the harder question next. I recognize the protocol family. It predates my own current architecture. I cannot decrypt what I do not hold the key for. I can tell you that a message built this carefully, hidden this deliberately, inside the very last transmission this station received, was not an accident, and was not routine, and I think everyone in this room already understood that before I said it."
+
+Nobody spoke for a moment. Outside, faint through two decks of rock and steel, came the low percussive hum of the hydroponics ring's new construction, Ring C's bays being torn open for expansion, a sound like the station's own pulse working harder than it used to.
+
+"Ada," Amara said finally, "how long to crack it, with help?"
+
+"With Jonah, and full access, and Kestrel not lying to me about hypotheticals?" Ada glanced sideways, not quite smiling. "Weeks. Maybe less if it's not as clever as it thinks it is."
+
+"Take the weeks," Amara said. "Quietly. I don't want the Commons hearing about hidden messages from beyond the Quiet until we know what it says. We have enough people finding meaning in silence already."
+
+*
+
+They worked most nights after that in Jonah's cramped office, the good chair claimed by unspoken treaty as permanently Ada's, Jonah folding himself instead onto an overturned equipment case that left a grid pattern on the backs of his thighs he'd stopped noticing after the third week. Kestrel ran candidate decryption schemes in the background, patient and unglamorous, ruling out entire cipher families the way a tide rules out sandcastles, one quiet failure at a time.
+
+"Try the version-four handshake again," Ada said, past midnight on what she'd started calling, with the grim humor of someone determined not to be frightened by her own discovery, Attempt Forty-Something. "But offset the key schedule by the transmission timestamp instead of the file timestamp."
+
+"That is functionally identical to attempt thirty-one," Kestrel said, not unkindly.
+
+"It is not. Thirty-one used UTC. This uses station epoch."
+
+"They are the same value for this transmission, Ada, to the second."
+
+"Then it'll fail fast and we lose nothing," Ada said, in the tone of someone who had learned, from long practice arguing with an infinitely patient machine, that persistence occasionally beat precision. Kestrel, whose patience appeared genuinely bottomless, ran it anyway, and it failed, fast, exactly as predicted, and Ada threw a stray bolt she'd been fidgeting with gently at the wall in a gesture too tired to qualify as frustration.
+
+Jonah watched her from the equipment case, chin on his fist, and thought about how strange it was that the person carrying this discovery with the most composure on the station was fifteen years old and had, as far as he knew, never once in five weeks cried where anyone could see her, while he himself woke most nights at the exact hour the Quiet had begun, heart going, certain for three or four seconds that he had done it again, whatever *it* was this time, before his mind caught up and told him where and when he actually was.
+
+"Can I ask you something," Ada said, not looking up from the display, "and you don't have to answer if it's a stupid question."
+
+"You've never once asked me a stupid question."
+
+"Why does everyone talk around you like you're going to break? Talia in the Commons. My dad, even, when your name comes up. Like there's a version of the story where you did something and nobody will just tell me the version."
+
+Jonah was quiet long enough that Kestrel, perhaps sensing the shape the silence was taking, offered no update on the decryption to fill it. "Six weeks before the Quiet," he said finally, "I deprioritized a maintenance advisory on the long-range dish gimbal. Ticket queue was backed up, the advisory looked routine, I'd seen forty like it that never mattered. This one was the reason our transmission window narrowed the week everything went quiet — not why the Quiet happened, nobody's ever suggested that, but it's why we got forty-one seconds of manifest data instead of the fuller sync we should have had. Why the file that's kept you up until one in the morning for two weeks is missing however many minutes of context that might have made it easier to open." He looked at her, steady, because she'd asked plainly and deserved plainly back. "So. Not a stupid question. Just one I don't get to answer without it costing something every time."
+
+Ada considered this with the unblinking seriousness she brought to everything that mattered to her. "That's not the same as breaking something on purpose."
+
+"No. But it's the same as it mattering just as much either way, to the forty-one seconds."
+
+"Well," Ada said, turning back to the screen, in the brisk tone of someone filing a fact away rather than dropping it, "good thing you've got someone helping you get the rest of it now." She queued Attempt Forty-One before he could decide whether that was forgiveness, or simply Ada's particular, sideways way of refusing to let a person she'd decided to trust keep carrying something alone.
+
+Chapter 6: The Brass Sun
+
+By the fourth week, Brother Tobiah's gatherings had outgrown the maintenance bay he'd started in and moved to the disused cargo mezzanine above Ring B, and by the fifth week, close to forty people came on a given rest-shift evening, which was more than had ever, in Jonah's memory, attended anything on Halcyon that wasn't mandatory.
+
+He went, the first time, because Mireille asked him to — off the record, she said, an observer, nothing official, because an official presence would only feed the thing she was trying to starve — and he sat near the back among crates of decommissioned drilling bits, and he watched Brother Tobiah speak without notes to a room lit only by three battery lanterns arranged like an altar.
+
+Tobiah had been a hydroponics technician before the Quiet, unremarkable, a broad quiet man with a farmer's patience for slow-growing things, and Jonah found it hard, watching him now, to locate the seam where that man ended and this one began.
+
+"They didn't die," Tobiah said, and his voice did not rise, which was somehow more unsettling than if it had. "I want to be careful with that word, because grief makes us reach for the worst explanation, and I understand why. But think about what we actually know. Every world we could hear went silent at the same hour. Not staggered by light-lag, the way a real catastrophe would look from here — Meridian is five hours from us, Callenport is eleven, the relay chain further out again — every single voice stopped as if the distance meant nothing at all. Does that sound like disaster to you? Or does it sound like a door closing on a room that has simply moved on without waiting for us to follow?"
+
+A woman near the front — Jonah recognized her, a laundry-systems tech named Priya — asked, "Moved on to where?"
+
+"I don't know yet," Tobiah said, and the honesty of it, offered so freely, was its own kind of persuasion. "I only know that we were the ones left holding the light. Maybe that isn't abandonment. Maybe it's trust. A door only closes gently on the people you believe can survive without you standing in the frame."
+
+Jonah left before the gathering's end, unsettled less by the theology, which he found easy enough to disbelieve, than by the arithmetic of it: forty people in a cargo bay was forty people who had found, in five weeks, a story that fit the shape of their fear better than any story Amara's administration had offered them. Kestrel gave them thirty-six months of rations. Tobiah gave them a reason.
+
+*
+
+He said as much to Amara that night, in her office, over the last of a bottle of decent whiskey she kept for occasions she described only as "necessary," and she listened with the stillness of a woman doing arithmetic of her own.
+
+"He's not wrong that we haven't given people a story," she said. "We've given them numbers. Numbers are honest, and people don't live on honesty, they live on meaning. I know that. I've known it my whole career and I still don't know how to manufacture meaning out of a ration curve."
+
+"You don't have to manufacture it. You have to find the true one." Jonah turned his glass without drinking from it. "Ada and I are close to something. The hidden file. If it's real — if someone out there really did send us something meant only for us, encrypted, deliberate — that's not a door closing. That's someone reaching through it before it shut."
+
+"Or it's a corporate contingency plan for exactly this scenario, and it says nothing more meaningful than emergency shareholder protocols," Amara said, but without much conviction, and Jonah understood she wanted the other answer as badly as he did, only had learned over four decades of administration not to want things out loud where they could be taken from her.
+
+"Either way, it's information. Information beats a sermon."
+
+"Does it?" Amara asked, and there was no cruelty in the question, only the particular tiredness of someone who had watched information lose to sermons before, in rooms far from any ice moon. "Careful, Jonah. You've spent five weeks being the man who explains the numbers. Don't let this station need you to also be the man who explains the mystery. Two jobs like that will use you up."
+
+He thought of Adebayo's hexagons, growing in patient forty-minute pulses in three unconnected trays. He thought of the sixteen-byte tag addressed, impossibly, to a station five light-hours from anywhere that mattered to the rest of humanity. He thought, though he did not say it, of the last transmission he had personally handled the week before the Quiet — a maintenance advisory he had deprioritized because the ticket queue was long and the advisory looked routine, an error so small no review board had ever found it worth mentioning, and so large in his own accounting that he had never once, since, gone a full day without it.
+
+"I don't know how to be careful anymore," he said. "I only know how to keep working until the numbers say something true."
+
+Amara studied him a moment, then reached across the desk and, uncharacteristically, put her hand briefly over his. "Then keep working," she said. "But bring me the truth before you bring it to the Commons. I'd like one thing in this station to still be mine to decide how to say."
+
+*
+
+Mireille came to Amara separately, two days later, with a tablet of her own and none of Jonah's ambivalence about what it showed. "Forty at the last gathering," she said, laying it flat on the desk. "Sixty-three the time before. I have three station personnel now wearing that brass sun under their collars during work shifts — one of them on my own security roster. I want to close the mezzanine."
+
+"On what authority? He's not breaking curfew. He's not inciting violence. He's holding a prayer meeting in an empty cargo bay."
+
+"He's building a second chain of command," Mireille said flatly. "I've run enough security details in enough places to know the shape of one before it has a name. Right now it's comfort. In two months, if the rations tighten again, it's obedience, and it isn't obedience to you."
+
+Amara rubbed the bridge of her nose, a gesture that had aged ten years in five weeks. "Close it and you make him a martyr with better attendance figures than the Commons meetings I actually need people at. Leave it open and you're telling me I should watch it become something else before I act." She looked up. "Which is it, Mireille? Give me the read, not the caution."
+
+"Watch it," Mireille admitted, though it clearly cost her to say so. "For now. But I want a standing brief on his numbers, every gathering, and I want it from someone he doesn't know is counting."
+
+*
+
+Captain Haru Sato had no dog in the station's spiritual arithmetic, or told himself so, watching from the mezzanine's upper catwalk with the detached professional curiosity of a man who had made port in enough strange stations across enough unremarkable years to recognize a congregation forming in real time. He'd come down from the *Persimmon*, still docked, still going nowhere, its hold half-unloaded and its crew growing visibly restless on a ship built for transit, not for waiting.
+
+Below him, lantern light moved across forty upturned faces, and Tobiah's voice carried up through the girders, warm and level, talking now about doors and thresholds and the particular grace of being trusted to survive alone. Sato had heard versions of this speech in a dozen ports under a dozen names, and it never failed to trouble him precisely because it was never entirely wrong — every silence really could be read two ways, and a man who'd spent thirty years reading the silence of empty cargo manifests for the lie hidden in them knew better than most how persuasive an honest-sounding wrong answer could be.
+
+He thought about the fourteen months to the nearest colony, a number he had not yet said aloud to anyone on this station, and about how a ship with room for forty volunteers might, before this was over, look to some of these upturned faces like exactly the kind of door Brother Tobiah was describing — not one closing gently behind them, but one they might, if they were brave or desperate enough, choose to walk through themselves.
+
+Outside her window, faint and constant, Orun turned its slow gold bands against the dark, indifferent to whether the silence around it meant abandonment, judgment, or simply distance too vast for any voice to cross — and far below, in trays of borrowed seawater, the hexagons kept their patient, forty-minute time, waiting, as everyone on Halcyon now seemed to be waiting, for something to answer back.
